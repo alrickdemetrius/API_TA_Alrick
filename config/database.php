@@ -1,5 +1,5 @@
 <?php
-$mode = 'production';
+$mode = 'local';
 // production or local
 
 if ($mode === 'local') {
