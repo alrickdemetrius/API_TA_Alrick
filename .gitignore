@@ -1,0 +1,5 @@
+vendor/
+uploads/
+config/firebase/
+key_push_notif.txt
+generate_vapid.php

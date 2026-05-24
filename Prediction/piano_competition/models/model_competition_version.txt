@@ -1,0 +1,6 @@
+Model trained  : 2026-04-27 09:16:30
+Training samples: 2900
+Test accuracy  : 0.9707
+CV score       : 0.9547 ± 0.0098
+Features       : tempo_control, accuracy_cleanliness, hand_coordination, dynamics_articulation, expression_emotion, phrasing, stage_presence
+Labels         : Not Ready, Developing, Ready, Competitive

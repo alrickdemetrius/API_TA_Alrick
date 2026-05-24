@@ -1,0 +1,9 @@
+# ABRSM Practical Prediction API - Requirements
+# Python 3.8+
+
+Flask==3.0.0
+flask-cors==4.0.0
+scikit-learn==1.3.2
+numpy==1.24.3
+joblib==1.3.2
+Werkzeug==3.0.1

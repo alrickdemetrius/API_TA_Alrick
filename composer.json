@@ -1,0 +1,17 @@
+{
+    "name": "ta/piano-api",
+    "autoload": {
+        "psr-4": {
+            "Ta\\PianoApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alrickdemetrius",
+            "email": "alrick.demetrius@gmail.com"
+        }
+    ],
+    "require": {
+        "minishlink/web-push": "^10.0"
+    }
+}

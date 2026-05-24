@@ -1,0 +1,2901 @@
+tempo_control,accuracy_cleanliness,hand_coordination,dynamics_articulation,expression_emotion,phrasing,stage_presence,label
+0,1,1,0,1,0,0,Not Ready
+0,0,0,0,1,0,1,Not Ready
+0,0,1,1,1,1,0,Not Ready
+1,0,0,0,1,1,0,Not Ready
+0,1,0,1,0,1,1,Not Ready
+0,1,1,0,1,1,0,Not Ready
+0,0,0,0,0,1,0,Not Ready
+0,0,0,0,0,0,1,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,0,0,0,1,0,1,Not Ready
+1,0,0,1,0,1,1,Not Ready
+0,1,1,1,0,0,1,Not Ready
+1,0,1,1,1,0,1,Not Ready
+0,0,0,1,0,0,0,Not Ready
+1,0,1,0,0,0,0,Not Ready
+0,0,0,1,1,0,0,Not Ready
+1,1,0,1,0,0,0,Not Ready
+1,0,0,1,1,0,1,Not Ready
+1,0,1,0,0,0,1,Not Ready
+0,0,1,1,1,0,0,Not Ready
+1,0,0,1,1,0,1,Not Ready
+1,1,0,1,0,0,1,Not Ready
+0,1,0,0,0,0,0,Not Ready
+0,1,1,1,0,0,0,Not Ready
+1,0,0,1,0,1,0,Not Ready
+0,0,1,1,0,0,1,Not Ready
+0,1,1,1,1,0,1,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,0,1,0,1,1,0,Not Ready
+0,0,1,0,0,1,0,Not Ready
+0,1,1,1,1,0,1,Not Ready
+1,0,0,1,1,0,0,Not Ready
+1,0,0,0,1,0,1,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,0,0,1,0,1,1,Not Ready
+1,0,1,0,0,1,0,Not Ready
+0,0,1,1,1,0,0,Not Ready
+0,0,1,1,1,0,0,Not Ready
+0,0,0,1,0,1,0,Not Ready
+0,0,1,0,0,0,0,Not Ready
+1,1,1,0,0,1,0,Not Ready
+0,1,0,1,1,0,1,Not Ready
+1,0,0,0,1,0,0,Not Ready
+0,0,0,0,1,0,0,Not Ready
+0,1,0,1,1,0,1,Not Ready
+0,0,1,1,1,1,0,Not Ready
+1,1,0,0,1,0,1,Not Ready
+0,0,1,0,0,1,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+1,0,0,0,0,1,1,Not Ready
+1,0,1,1,1,1,0,Not Ready
+1,1,1,1,1,0,0,Not Ready
+1,1,1,0,1,0,1,Not Ready
+1,1,0,1,0,1,1,Not Ready
+1,0,1,0,1,1,0,Not Ready
+1,1,1,0,0,0,0,Not Ready
+0,0,1,0,0,0,1,Not Ready
+0,0,1,0,0,0,0,Not Ready
+1,0,0,0,0,0,0,Not Ready
+0,1,1,1,1,0,0,Not Ready
+0,0,1,0,1,0,0,Not Ready
+1,1,1,1,0,0,0,Not Ready
+0,1,1,0,0,1,1,Not Ready
+0,1,0,0,1,1,1,Not Ready
+1,0,1,1,0,0,1,Not Ready
+0,1,0,1,0,0,1,Not Ready
+0,1,0,1,1,1,0,Not Ready
+1,0,1,0,0,1,1,Not Ready
+1,1,0,1,0,1,0,Not Ready
+1,0,0,1,0,1,0,Not Ready
+0,1,1,0,0,0,0,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,0,1,1,1,1,0,Not Ready
+0,1,1,1,0,0,1,Not Ready
+0,1,0,1,0,0,0,Not Ready
+0,0,0,1,0,0,0,Not Ready
+1,0,1,1,0,1,1,Not Ready
+0,0,1,1,0,1,0,Not Ready
+0,1,1,0,1,1,0,Not Ready
+0,0,0,0,1,0,0,Not Ready
+0,1,1,0,0,0,0,Not Ready
+0,0,0,1,0,1,0,Not Ready
+0,0,0,1,1,1,1,Not Ready
+0,1,1,1,1,0,1,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,0,0,0,0,0,0,Not Ready
+0,1,1,1,0,0,0,Not Ready
+0,0,1,0,0,1,1,Not Ready
+0,0,0,1,0,0,1,Not Ready
+1,1,0,1,0,0,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+1,1,1,0,1,0,0,Not Ready
+1,0,1,1,0,1,0,Not Ready
+1,1,0,0,1,0,1,Not Ready
+1,0,0,1,1,0,0,Not Ready
+0,1,1,0,1,1,1,Not Ready
+1,1,1,1,0,1,1,Not Ready
+1,0,0,0,1,1,1,Not Ready
+0,0,1,0,1,0,1,Not Ready
+0,0,0,1,0,1,0,Not Ready
+1,0,0,0,0,1,0,Not Ready
+0,0,0,0,1,1,0,Not Ready
+0,0,0,1,1,1,0,Not Ready
+0,0,0,0,0,0,0,Not Ready
+1,1,0,0,1,0,0,Not Ready
+1,0,1,1,1,1,0,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,1,0,0,1,0,0,Not Ready
+0,1,1,1,0,1,0,Not Ready
+0,0,1,1,1,1,0,Not Ready
+0,0,0,0,1,0,1,Not Ready
+1,0,1,0,0,1,0,Not Ready
+0,0,0,1,1,0,1,Not Ready
+0,1,1,0,1,1,1,Not Ready
+1,1,0,0,0,0,1,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,1,1,1,1,1,0,Not Ready
+1,1,1,1,1,1,0,Not Ready
+0,1,0,1,1,0,0,Not Ready
+1,1,0,0,0,0,1,Not Ready
+1,0,1,1,0,0,1,Not Ready
+1,1,0,0,0,0,0,Not Ready
+1,0,0,1,1,0,0,Not Ready
+0,0,0,0,1,0,0,Not Ready
+0,1,0,1,1,0,0,Not Ready
+0,1,1,0,1,1,1,Not Ready
+0,1,1,1,0,1,0,Not Ready
+1,1,1,1,1,0,1,Not Ready
+0,0,0,1,1,1,0,Not Ready
+0,0,0,1,1,0,0,Not Ready
+0,1,0,1,1,1,0,Not Ready
+1,0,0,1,1,1,1,Not Ready
+0,0,1,1,0,0,1,Not Ready
+0,1,1,0,0,0,1,Not Ready
+1,1,0,1,0,0,0,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,0,1,1,0,0,1,Not Ready
+1,1,0,1,1,1,1,Not Ready
+1,0,1,1,1,0,1,Not Ready
+1,1,1,1,1,1,1,Developing
+0,0,1,1,1,0,1,Not Ready
+1,0,1,0,1,1,0,Not Ready
+0,0,0,1,0,0,1,Not Ready
+1,1,0,0,1,1,1,Not Ready
+0,0,1,1,1,0,1,Not Ready
+0,1,0,1,1,0,0,Not Ready
+1,1,0,0,0,1,0,Not Ready
+0,0,1,0,1,0,1,Not Ready
+1,1,0,0,1,0,1,Not Ready
+0,1,0,1,0,0,1,Not Ready
+1,0,0,0,1,1,0,Not Ready
+0,0,0,0,1,0,1,Not Ready
+0,0,1,0,0,1,1,Not Ready
+0,0,1,1,1,1,1,Not Ready
+0,0,1,0,0,0,0,Not Ready
+1,1,1,1,1,1,1,Developing
+0,1,0,0,1,1,1,Not Ready
+1,1,1,1,0,1,0,Not Ready
+1,0,0,1,0,1,0,Not Ready
+0,0,0,1,0,1,1,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+1,1,0,1,1,1,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+0,0,1,0,1,0,1,Not Ready
+0,1,0,1,1,1,1,Not Ready
+0,0,1,0,0,1,0,Not Ready
+1,0,1,1,1,0,1,Not Ready
+0,1,0,1,1,0,1,Not Ready
+1,0,0,0,0,0,0,Not Ready
+1,0,1,1,0,0,1,Not Ready
+0,0,0,1,0,1,1,Not Ready
+0,1,0,0,1,1,0,Not Ready
+0,0,0,1,1,0,0,Not Ready
+1,0,0,0,1,0,1,Not Ready
+0,1,0,0,0,1,0,Not Ready
+1,0,1,1,1,0,0,Not Ready
+0,0,1,0,1,0,1,Not Ready
+0,0,0,1,1,1,1,Not Ready
+0,0,1,1,0,1,1,Not Ready
+1,1,1,1,0,0,1,Not Ready
+0,1,0,1,1,0,1,Not Ready
+1,1,1,0,0,1,1,Not Ready
+0,0,0,0,0,0,0,Not Ready
+0,0,0,0,1,0,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,1,0,1,0,0,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+0,1,0,1,1,0,1,Not Ready
+1,1,0,0,0,0,1,Not Ready
+0,1,0,1,0,1,0,Not Ready
+1,0,0,1,1,0,1,Not Ready
+1,0,0,0,0,0,0,Not Ready
+1,0,1,0,0,0,1,Not Ready
+0,1,1,0,0,1,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+0,0,1,1,1,1,0,Not Ready
+1,0,0,0,1,0,0,Not Ready
+1,0,1,1,0,0,0,Not Ready
+1,0,0,0,0,1,1,Not Ready
+0,1,0,0,0,0,1,Not Ready
+1,0,0,0,0,0,1,Not Ready
+1,0,1,0,0,0,1,Not Ready
+1,1,0,1,0,0,0,Not Ready
+1,1,0,1,0,0,1,Not Ready
+0,0,1,1,1,0,1,Not Ready
+0,0,1,1,1,1,1,Not Ready
+1,0,0,0,0,0,0,Not Ready
+1,1,1,1,1,1,1,Developing
+1,1,1,0,0,1,1,Not Ready
+0,0,1,0,1,1,0,Not Ready
+1,0,0,0,0,0,0,Not Ready
+1,1,0,0,1,1,1,Not Ready
+1,1,0,1,0,0,0,Not Ready
+0,1,0,1,0,1,1,Not Ready
+0,1,0,1,0,0,1,Not Ready
+1,0,1,0,1,1,1,Not Ready
+1,1,1,1,0,0,1,Not Ready
+0,0,0,1,1,1,1,Not Ready
+0,1,0,0,0,1,0,Not Ready
+1,0,0,1,0,1,0,Not Ready
+0,0,1,0,0,0,1,Not Ready
+1,1,1,1,1,0,0,Not Ready
+0,1,1,1,0,0,0,Not Ready
+1,1,0,0,0,1,1,Not Ready
+0,0,0,1,0,1,1,Not Ready
+1,1,0,0,1,0,1,Not Ready
+0,0,1,1,1,1,1,Not Ready
+0,0,1,0,0,0,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+1,1,1,1,0,1,1,Not Ready
+1,0,1,1,1,0,0,Not Ready
+1,1,1,0,1,0,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+0,0,0,0,0,1,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,0,0,1,0,1,1,Not Ready
+1,1,1,1,0,1,1,Not Ready
+0,0,0,1,1,0,1,Not Ready
+0,1,0,0,1,1,0,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,1,1,1,0,0,1,Not Ready
+1,1,0,0,1,1,1,Not Ready
+0,0,0,1,0,1,0,Not Ready
+0,0,1,1,1,1,0,Not Ready
+1,0,0,0,0,0,1,Not Ready
+0,1,1,1,0,1,0,Not Ready
+0,0,0,0,1,0,0,Not Ready
+1,0,1,0,1,1,1,Not Ready
+1,0,0,0,1,1,0,Not Ready
+1,0,0,0,0,0,1,Not Ready
+0,1,1,1,0,1,0,Not Ready
+0,0,1,1,1,1,0,Not Ready
+1,1,1,0,1,1,0,Not Ready
+0,0,0,0,1,1,1,Not Ready
+0,1,1,0,0,1,0,Not Ready
+0,1,1,0,1,1,1,Not Ready
+0,1,1,1,1,0,1,Not Ready
+0,0,1,0,1,1,0,Not Ready
+0,0,1,1,1,0,1,Not Ready
+1,1,1,1,1,0,1,Not Ready
+0,1,1,0,0,1,0,Not Ready
+1,1,1,1,1,1,0,Not Ready
+0,0,1,1,1,0,1,Not Ready
+0,1,0,0,1,1,0,Not Ready
+0,1,1,1,1,1,0,Not Ready
+1,1,1,1,0,1,0,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,1,1,0,1,0,0,Not Ready
+0,0,1,1,1,1,1,Not Ready
+1,1,1,1,0,0,1,Not Ready
+1,1,0,0,1,1,0,Not Ready
+0,0,0,0,0,1,1,Not Ready
+1,0,1,1,0,0,0,Not Ready
+0,1,0,1,1,1,0,Not Ready
+1,1,1,1,0,0,0,Not Ready
+0,0,0,0,1,1,1,Not Ready
+1,1,0,1,1,1,1,Not Ready
+0,0,0,0,1,1,0,Not Ready
+1,1,0,0,1,0,1,Not Ready
+1,0,1,0,1,1,1,Not Ready
+1,1,1,1,0,1,0,Not Ready
+1,1,1,0,1,1,1,Not Ready
+0,1,1,1,0,0,1,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,0,1,1,1,0,0,Not Ready
+1,0,1,1,0,1,0,Not Ready
+0,1,0,0,0,0,0,Not Ready
+0,0,1,1,0,0,1,Not Ready
+1,1,0,1,1,0,1,Not Ready
+0,0,0,0,1,0,0,Not Ready
+1,0,0,0,1,1,0,Not Ready
+1,1,1,0,0,0,1,Not Ready
+1,0,1,0,0,0,1,Not Ready
+0,0,1,0,0,1,0,Not Ready
+1,1,1,1,1,1,1,Developing
+1,1,0,0,0,0,1,Not Ready
+0,1,0,1,1,0,1,Not Ready
+1,1,0,1,0,0,0,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,0,1,0,1,1,1,Not Ready
+1,1,1,0,0,0,1,Not Ready
+1,0,1,0,1,0,0,Not Ready
+0,0,0,0,0,1,1,Not Ready
+1,1,1,1,0,0,0,Not Ready
+0,0,0,0,1,0,1,Not Ready
+0,1,1,1,0,1,1,Not Ready
+1,1,1,1,1,1,0,Not Ready
+0,1,1,0,1,0,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+0,1,1,0,1,0,0,Not Ready
+0,1,1,0,1,1,1,Not Ready
+1,1,0,1,0,1,1,Not Ready
+0,0,1,1,0,0,1,Not Ready
+0,0,0,0,0,0,1,Not Ready
+1,1,1,0,0,1,1,Not Ready
+0,1,0,0,1,1,1,Not Ready
+1,1,1,0,0,0,1,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,1,1,0,0,1,0,Not Ready
+0,1,1,1,0,1,1,Not Ready
+0,1,1,0,0,0,0,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,1,0,1,0,1,0,Not Ready
+1,1,1,1,0,0,1,Not Ready
+1,0,0,0,0,0,1,Not Ready
+1,0,0,1,0,1,1,Not Ready
+0,1,0,1,0,0,1,Not Ready
+0,1,1,1,1,1,1,Not Ready
+0,1,0,0,0,0,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+0,0,0,1,1,1,1,Not Ready
+1,1,0,0,1,0,0,Not Ready
+0,0,0,0,1,1,1,Not Ready
+1,1,0,0,0,0,0,Not Ready
+1,0,1,1,0,0,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,1,0,0,1,0,0,Not Ready
+0,1,1,0,1,0,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,1,1,0,1,1,0,Not Ready
+0,1,0,0,1,1,1,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,1,1,0,1,0,1,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,1,1,1,0,0,0,Not Ready
+0,1,0,1,0,1,0,Not Ready
+0,1,0,0,0,0,0,Not Ready
+0,1,1,1,0,0,0,Not Ready
+1,0,0,0,0,1,1,Not Ready
+0,0,0,1,1,0,1,Not Ready
+1,1,0,0,0,1,1,Not Ready
+0,0,1,1,0,1,0,Not Ready
+1,0,1,1,0,0,1,Not Ready
+1,1,1,1,1,0,1,Not Ready
+1,1,1,1,1,1,1,Developing
+1,1,0,0,0,1,1,Not Ready
+1,0,1,1,1,0,1,Not Ready
+0,1,1,0,0,0,0,Not Ready
+1,0,1,0,0,1,1,Not Ready
+1,1,0,0,1,0,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+1,1,1,0,1,1,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+1,0,1,0,1,1,1,Not Ready
+1,1,0,0,0,1,1,Not Ready
+1,1,1,0,1,1,0,Not Ready
+0,0,1,0,0,1,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+1,0,1,1,0,1,1,Not Ready
+1,1,0,0,1,1,1,Not Ready
+1,1,0,1,0,1,0,Not Ready
+1,1,0,0,1,0,0,Not Ready
+0,0,0,0,1,1,0,Not Ready
+1,1,1,0,1,1,1,Not Ready
+1,1,0,0,1,0,0,Not Ready
+1,0,0,1,1,0,0,Not Ready
+0,0,0,0,1,1,0,Not Ready
+1,0,0,1,0,0,0,Not Ready
+1,0,1,1,1,1,0,Not Ready
+0,1,1,0,1,1,1,Not Ready
+0,1,1,0,1,0,1,Not Ready
+1,1,1,1,0,0,0,Not Ready
+0,0,1,0,0,0,0,Not Ready
+1,0,0,0,0,0,0,Not Ready
+0,0,1,0,1,0,1,Not Ready
+0,1,0,0,0,1,0,Not Ready
+0,0,1,0,0,0,1,Not Ready
+1,0,1,0,0,1,1,Not Ready
+0,1,1,1,1,1,1,Not Ready
+1,0,0,0,1,0,1,Not Ready
+0,1,1,1,1,1,0,Not Ready
+0,0,0,0,0,0,1,Not Ready
+1,1,0,0,0,0,1,Not Ready
+1,0,0,1,0,1,1,Not Ready
+1,1,1,0,0,1,0,Not Ready
+0,0,1,0,0,1,0,Not Ready
+0,0,1,0,1,1,0,Not Ready
+1,1,0,0,1,1,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,0,1,0,1,0,0,Not Ready
+0,1,0,1,0,1,1,Not Ready
+1,0,0,0,1,1,1,Not Ready
+0,0,1,1,0,0,0,Not Ready
+1,1,0,1,0,0,1,Not Ready
+1,1,0,1,1,0,0,Not Ready
+0,0,0,0,0,0,0,Not Ready
+0,1,1,1,0,1,0,Not Ready
+0,1,0,0,0,0,1,Not Ready
+1,0,0,0,1,1,1,Not Ready
+0,0,1,0,1,1,0,Not Ready
+0,0,0,1,0,0,0,Not Ready
+1,0,1,1,1,1,0,Not Ready
+0,0,0,1,0,1,1,Not Ready
+1,0,0,1,0,0,1,Not Ready
+0,1,0,1,1,0,0,Not Ready
+0,0,0,1,0,0,0,Not Ready
+1,1,0,0,0,0,1,Not Ready
+0,0,0,0,1,0,0,Not Ready
+1,0,1,0,1,0,0,Not Ready
+1,1,1,0,0,0,0,Not Ready
+1,0,1,0,1,1,0,Not Ready
+0,1,0,1,1,0,0,Not Ready
+1,1,1,0,1,1,0,Not Ready
+0,0,0,1,0,1,1,Not Ready
+1,1,1,1,1,1,1,Developing
+1,1,1,1,0,1,1,Not Ready
+1,1,1,1,1,0,0,Not Ready
+0,1,0,0,1,0,1,Not Ready
+1,0,1,1,0,0,0,Not Ready
+0,1,0,1,1,1,0,Not Ready
+0,1,0,1,1,0,0,Not Ready
+1,0,0,0,0,0,1,Not Ready
+1,1,0,1,0,1,1,Not Ready
+0,0,0,0,1,1,1,Not Ready
+0,0,0,1,1,1,0,Not Ready
+1,0,0,0,0,1,0,Not Ready
+1,1,0,0,0,1,1,Not Ready
+1,1,1,1,0,0,1,Not Ready
+0,0,0,0,1,0,1,Not Ready
+0,0,1,0,1,0,0,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,0,0,0,1,1,0,Not Ready
+0,0,0,1,0,1,1,Not Ready
+0,0,0,1,1,0,0,Not Ready
+1,0,1,1,0,1,1,Not Ready
+1,1,1,0,0,0,0,Not Ready
+0,1,1,0,1,1,0,Not Ready
+0,1,0,1,1,0,0,Not Ready
+0,0,1,0,1,0,0,Not Ready
+1,1,1,0,0,1,1,Not Ready
+0,1,0,0,0,0,0,Not Ready
+0,1,1,0,0,0,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+1,1,0,1,0,0,0,Not Ready
+1,1,0,1,0,0,0,Not Ready
+1,1,0,0,0,1,0,Not Ready
+1,1,1,0,0,1,0,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,0,1,0,0,0,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+0,1,0,1,0,1,0,Not Ready
+1,1,0,1,1,1,0,Not Ready
+0,1,0,0,0,0,0,Not Ready
+1,0,0,1,1,0,0,Not Ready
+0,1,1,1,0,0,0,Not Ready
+0,1,1,1,1,1,0,Not Ready
+1,0,0,1,0,1,0,Not Ready
+1,1,1,1,1,1,0,Not Ready
+1,0,0,1,1,0,0,Not Ready
+0,0,1,1,0,0,1,Not Ready
+0,1,0,0,1,0,1,Not Ready
+1,1,1,0,1,0,0,Not Ready
+1,1,0,0,0,0,1,Not Ready
+1,0,0,1,1,1,1,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,1,1,1,1,1,1,Not Ready
+0,1,0,1,1,0,0,Not Ready
+0,1,1,1,0,1,1,Not Ready
+1,1,1,1,1,0,1,Not Ready
+0,0,0,1,1,0,1,Not Ready
+0,0,1,1,0,0,0,Not Ready
+1,1,1,1,0,0,1,Not Ready
+0,1,0,0,1,0,0,Not Ready
+1,0,1,0,1,1,1,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,1,0,1,1,1,1,Not Ready
+1,0,0,0,1,0,0,Not Ready
+1,0,0,0,1,0,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+1,0,0,0,1,0,0,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,1,0,1,1,0,0,Not Ready
+1,0,0,1,0,1,1,Not Ready
+1,1,0,0,0,0,1,Not Ready
+0,1,0,0,1,1,0,Not Ready
+0,0,0,0,1,0,0,Not Ready
+1,1,0,0,1,1,0,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,1,1,0,0,0,1,Not Ready
+0,0,0,0,1,1,0,Not Ready
+1,1,1,0,0,1,1,Not Ready
+0,1,0,0,1,0,1,Not Ready
+0,1,0,1,1,0,1,Not Ready
+0,1,1,1,0,0,0,Not Ready
+0,1,0,1,1,1,1,Not Ready
+0,0,1,0,0,1,1,Not Ready
+0,0,0,1,0,0,1,Not Ready
+1,1,0,1,1,1,1,Not Ready
+0,1,0,0,1,0,1,Not Ready
+0,1,1,1,0,0,1,Not Ready
+0,1,1,1,1,0,1,Not Ready
+0,0,0,0,1,1,0,Not Ready
+0,1,1,1,1,0,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,0,1,1,0,1,1,Not Ready
+1,1,0,0,1,0,0,Not Ready
+1,0,0,1,0,0,0,Not Ready
+0,0,1,0,1,0,0,Not Ready
+1,1,1,1,1,0,0,Not Ready
+1,0,1,0,1,1,0,Not Ready
+1,0,1,0,0,1,1,Not Ready
+1,1,0,1,1,0,0,Not Ready
+1,0,0,1,1,1,0,Not Ready
+0,0,0,1,1,1,1,Not Ready
+0,1,1,1,0,1,0,Not Ready
+0,1,0,0,0,1,1,Not Ready
+1,1,1,1,0,1,0,Not Ready
+0,1,1,0,1,0,0,Not Ready
+1,1,1,1,1,1,1,Developing
+0,0,0,0,1,0,1,Not Ready
+0,1,0,1,0,0,1,Not Ready
+1,0,1,0,1,0,1,Not Ready
+1,1,1,0,0,1,1,Not Ready
+0,0,0,0,1,1,0,Not Ready
+1,1,1,0,0,0,0,Not Ready
+0,1,0,0,1,1,1,Not Ready
+0,0,0,0,1,1,0,Not Ready
+0,0,0,1,0,1,1,Not Ready
+1,0,0,1,1,0,1,Not Ready
+1,0,1,1,1,1,1,Not Ready
+0,0,1,0,0,0,0,Not Ready
+0,0,1,1,1,1,0,Not Ready
+1,0,0,0,1,1,0,Not Ready
+1,1,0,1,1,0,0,Not Ready
+1,1,0,1,0,1,0,Not Ready
+0,0,1,0,1,0,0,Not Ready
+1,1,1,0,0,1,0,Not Ready
+1,0,1,1,1,0,1,Not Ready
+0,0,0,1,0,0,0,Not Ready
+0,0,1,0,0,1,0,Not Ready
+0,0,1,0,0,0,1,Not Ready
+0,1,1,0,0,1,0,Not Ready
+0,0,0,0,0,1,1,Not Ready
+0,1,0,0,0,1,1,Not Ready
+1,1,1,0,0,1,0,Not Ready
+1,1,0,0,0,0,1,Not Ready
+1,1,1,1,0,0,1,Not Ready
+0,1,1,1,0,1,1,Not Ready
+1,0,1,1,0,1,1,Not Ready
+1,1,0,0,1,1,0,Not Ready
+1,0,1,0,1,0,0,Not Ready
+0,0,0,1,0,1,0,Not Ready
+0,0,0,0,0,0,1,Not Ready
+1,1,0,0,0,0,0,Not Ready
+0,0,0,1,1,1,0,Not Ready
+0,1,1,0,1,1,0,Not Ready
+0,1,0,0,1,1,0,Not Ready
+0,0,1,1,0,1,1,Not Ready
+0,0,0,1,0,1,1,Not Ready
+1,1,0,0,1,0,1,Not Ready
+1,1,1,0,0,1,0,Not Ready
+1,0,1,1,0,0,0,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,1,1,0,0,0,0,Not Ready
+0,0,1,1,0,0,1,Not Ready
+1,0,0,0,1,1,1,Not Ready
+0,0,1,0,1,1,1,Not Ready
+0,1,0,1,0,0,0,Not Ready
+1,1,0,0,0,1,0,Not Ready
+1,1,0,0,1,0,1,Not Ready
+0,1,0,1,0,0,0,Not Ready
+0,0,0,1,0,1,1,Not Ready
+1,0,1,1,0,0,1,Not Ready
+0,0,0,0,1,1,1,Not Ready
+1,0,1,0,1,0,0,Not Ready
+0,1,0,1,1,0,1,Not Ready
+1,1,1,0,0,1,1,Not Ready
+0,0,1,0,0,1,1,Not Ready
+1,1,1,1,1,1,0,Not Ready
+1,1,0,1,0,0,1,Not Ready
+0,1,1,1,1,1,0,Not Ready
+0,1,0,1,0,0,1,Not Ready
+0,0,0,1,1,0,1,Not Ready
+0,1,1,0,0,0,1,Not Ready
+0,1,0,0,0,0,0,Not Ready
+0,0,1,0,1,0,0,Not Ready
+0,0,1,1,1,1,0,Not Ready
+2,1,2,1,2,1,1,Developing
+1,2,2,1,2,1,1,Developing
+2,2,2,1,2,1,2,Developing
+1,2,2,2,1,2,2,Developing
+2,2,1,2,1,2,2,Developing
+2,1,1,2,1,2,1,Developing
+2,2,1,1,1,2,1,Developing
+1,1,1,2,2,2,2,Developing
+1,2,1,1,2,2,1,Developing
+2,1,1,2,2,1,2,Developing
+1,1,1,2,2,1,2,Developing
+1,2,2,2,2,2,2,Ready
+2,1,1,2,2,1,1,Developing
+2,1,1,2,2,1,2,Developing
+1,1,1,1,2,2,2,Developing
+1,1,1,1,2,2,1,Developing
+1,2,1,2,2,1,1,Developing
+2,1,1,1,2,2,1,Developing
+1,2,1,2,1,1,2,Developing
+2,2,1,2,1,1,2,Developing
+1,1,2,2,1,1,2,Developing
+1,1,1,2,2,2,1,Developing
+1,2,1,2,1,2,2,Developing
+2,1,2,2,1,1,2,Developing
+2,2,1,2,1,1,2,Developing
+2,2,1,2,2,2,1,Developing
+2,1,1,1,2,1,1,Developing
+1,1,2,1,1,1,2,Developing
+2,2,2,2,1,2,1,Developing
+2,2,1,1,1,1,1,Developing
+1,2,1,2,2,1,1,Developing
+2,1,1,1,1,1,1,Developing
+1,1,2,1,1,2,1,Developing
+2,1,2,2,1,2,2,Developing
+1,2,2,1,1,2,1,Developing
+1,2,2,2,2,1,2,Developing
+2,2,2,1,2,2,2,Ready
+2,2,1,1,2,1,2,Developing
+1,1,1,1,1,1,1,Developing
+2,2,2,1,2,2,1,Developing
+1,2,1,2,1,2,2,Developing
+1,1,1,1,1,1,2,Developing
+2,2,2,2,2,2,2,Ready
+1,2,1,1,1,2,2,Developing
+2,2,2,1,2,1,1,Developing
+1,2,2,2,2,1,1,Developing
+1,1,1,2,1,1,1,Developing
+1,2,1,2,1,1,2,Developing
+2,2,1,1,2,2,1,Developing
+1,1,2,2,2,1,2,Developing
+2,2,2,2,1,1,1,Developing
+1,1,1,1,1,1,2,Developing
+2,1,2,1,1,2,1,Developing
+2,2,2,1,2,1,1,Developing
+1,2,1,2,1,1,1,Developing
+2,2,2,1,1,2,2,Developing
+2,1,1,1,1,2,2,Developing
+1,2,1,1,2,1,1,Developing
+1,2,1,2,1,2,1,Developing
+1,1,1,2,2,2,2,Developing
+2,2,1,1,2,2,2,Developing
+1,2,1,2,2,2,1,Developing
+1,1,2,1,1,2,1,Developing
+1,1,2,2,1,2,1,Developing
+1,2,1,1,1,2,2,Developing
+1,1,2,2,1,1,2,Developing
+2,1,1,2,1,2,1,Developing
+1,1,2,2,2,2,2,Developing
+2,1,2,2,2,1,1,Developing
+1,2,2,2,2,2,1,Developing
+2,2,1,1,2,2,2,Developing
+1,1,2,1,2,1,1,Developing
+1,2,1,1,2,1,1,Developing
+1,1,2,2,2,2,1,Developing
+2,1,2,1,2,2,2,Developing
+2,2,1,2,2,2,1,Developing
+2,1,1,2,1,1,2,Developing
+2,1,1,1,1,2,2,Developing
+1,1,2,2,2,2,1,Developing
+1,1,1,1,1,1,1,Developing
+1,2,2,1,1,1,1,Developing
+2,1,2,2,1,2,1,Developing
+1,1,2,1,1,1,2,Developing
+2,1,1,2,2,1,2,Developing
+1,1,1,2,1,2,2,Developing
+2,1,2,2,1,1,2,Developing
+2,1,2,2,2,1,1,Developing
+1,1,1,1,2,1,1,Developing
+1,1,1,1,1,1,1,Developing
+2,2,2,1,2,2,1,Developing
+2,1,2,2,1,1,2,Developing
+1,1,2,1,1,1,1,Developing
+2,2,1,1,2,1,1,Developing
+1,1,2,2,1,2,2,Developing
+2,2,1,2,2,1,1,Developing
+1,2,2,2,1,1,1,Developing
+1,1,1,1,1,2,2,Developing
+2,2,2,2,2,1,1,Developing
+2,2,1,1,2,2,2,Developing
+1,1,1,1,1,2,2,Developing
+2,2,1,2,2,1,1,Developing
+2,2,2,1,2,2,1,Developing
+1,2,1,2,2,1,1,Developing
+2,1,2,1,2,1,2,Developing
+2,2,2,1,1,1,1,Developing
+2,2,1,1,1,1,1,Developing
+1,2,2,1,2,2,2,Developing
+2,1,1,1,2,2,2,Developing
+1,1,1,2,2,1,2,Developing
+2,1,1,2,2,1,2,Developing
+2,1,1,1,2,2,2,Developing
+1,2,1,1,1,1,2,Developing
+2,2,2,1,2,1,2,Developing
+2,1,2,2,2,2,1,Developing
+1,1,1,2,1,1,1,Developing
+1,2,1,2,2,1,2,Developing
+2,2,1,2,1,1,2,Developing
+2,2,2,2,2,2,1,Ready
+1,1,2,1,1,2,2,Developing
+2,1,2,1,2,2,2,Developing
+2,2,1,2,1,2,2,Developing
+2,2,1,2,1,1,2,Developing
+2,2,2,1,2,2,2,Ready
+1,2,1,2,2,2,2,Developing
+2,1,2,1,2,2,2,Developing
+1,1,2,2,1,2,1,Developing
+1,2,2,1,1,1,2,Developing
+1,2,1,1,2,1,1,Developing
+1,2,1,2,1,1,1,Developing
+1,1,2,2,2,2,1,Developing
+1,1,1,1,1,1,2,Developing
+1,1,1,1,1,2,2,Developing
+2,2,2,1,1,1,2,Developing
+2,2,2,1,1,1,1,Developing
+1,1,2,1,1,1,2,Developing
+1,2,1,2,1,2,1,Developing
+2,1,1,1,1,2,1,Developing
+2,2,1,1,1,2,1,Developing
+2,1,2,1,1,2,1,Developing
+1,2,1,1,2,1,1,Developing
+2,2,1,1,2,1,1,Developing
+2,2,2,1,2,2,2,Ready
+2,1,1,2,1,1,1,Developing
+1,2,1,2,1,2,2,Developing
+1,1,1,2,2,1,1,Developing
+2,2,2,2,1,2,2,Ready
+2,1,1,1,1,2,1,Developing
+2,2,2,1,2,1,2,Developing
+1,1,1,1,1,1,1,Developing
+1,1,1,2,2,1,2,Developing
+1,2,1,2,1,2,1,Developing
+1,2,1,2,1,2,1,Developing
+1,2,2,2,1,2,1,Developing
+1,1,2,2,2,2,1,Developing
+1,1,2,2,1,2,1,Developing
+2,2,2,2,2,2,2,Ready
+2,2,2,1,2,2,1,Developing
+2,2,2,2,2,1,1,Developing
+1,1,2,1,1,1,1,Developing
+1,1,1,1,1,1,1,Developing
+1,1,2,2,1,2,2,Developing
+2,2,2,2,1,2,2,Ready
+1,2,1,2,2,2,2,Developing
+1,2,1,2,2,1,1,Developing
+1,1,2,1,1,2,2,Developing
+1,1,1,2,1,2,1,Developing
+1,1,1,2,1,2,2,Developing
+1,1,1,2,1,1,1,Developing
+1,1,1,1,1,2,2,Developing
+2,1,1,1,2,2,2,Developing
+2,2,1,2,2,2,1,Developing
+2,2,2,1,2,2,2,Ready
+2,2,1,2,1,1,1,Developing
+2,1,1,1,2,1,2,Developing
+1,2,2,2,2,2,1,Developing
+1,2,1,2,2,1,2,Developing
+2,2,2,2,1,1,2,Developing
+2,1,2,2,2,2,1,Developing
+1,2,1,2,1,1,1,Developing
+1,2,1,2,1,1,2,Developing
+2,2,1,1,1,2,2,Developing
+1,1,2,1,1,1,2,Developing
+2,1,2,1,2,1,2,Developing
+2,1,1,2,1,1,1,Developing
+1,2,1,2,1,2,1,Developing
+1,1,2,1,1,2,2,Developing
+2,1,1,1,1,2,2,Developing
+1,2,2,1,1,1,1,Developing
+2,2,2,2,1,2,2,Ready
+2,1,1,1,2,2,2,Developing
+1,2,1,2,2,2,2,Developing
+1,2,2,1,2,1,2,Developing
+2,2,2,2,1,1,2,Developing
+1,2,2,2,2,1,2,Developing
+1,2,2,1,2,1,1,Developing
+1,2,1,2,1,1,2,Developing
+2,1,1,1,1,1,1,Developing
+2,2,1,1,2,1,2,Developing
+1,1,1,2,1,2,1,Developing
+2,2,1,1,2,1,1,Developing
+1,1,1,1,1,1,1,Developing
+1,2,2,1,2,1,1,Developing
+1,1,2,1,2,1,2,Developing
+2,1,2,2,1,1,2,Developing
+2,1,1,2,2,2,1,Developing
+1,2,2,2,2,1,2,Developing
+1,2,2,1,1,1,1,Developing
+2,1,1,2,2,2,2,Developing
+2,2,2,1,2,1,2,Developing
+1,2,1,2,2,1,2,Developing
+2,1,2,2,1,2,2,Developing
+2,1,1,2,2,2,2,Developing
+1,1,2,1,2,2,2,Developing
+1,1,1,2,2,1,1,Developing
+1,1,1,1,1,1,1,Developing
+2,1,2,2,1,2,1,Developing
+1,1,1,1,2,1,2,Developing
+1,2,1,2,2,2,1,Developing
+2,1,2,2,1,1,1,Developing
+1,2,1,1,2,2,1,Developing
+2,1,1,2,1,2,2,Developing
+1,2,1,1,1,2,2,Developing
+2,2,2,1,1,2,1,Developing
+2,2,1,1,2,2,1,Developing
+1,1,2,1,1,1,1,Developing
+2,1,2,1,1,2,1,Developing
+1,2,1,1,2,2,1,Developing
+2,1,2,2,2,1,2,Developing
+2,1,2,1,1,1,2,Developing
+1,1,1,2,1,1,2,Developing
+2,1,1,2,1,2,2,Developing
+2,1,2,2,2,1,1,Developing
+1,1,1,1,1,1,1,Developing
+1,1,2,1,1,2,2,Developing
+2,1,2,2,1,1,1,Developing
+2,1,2,1,1,2,2,Developing
+1,1,1,1,1,2,1,Developing
+1,1,1,2,1,1,2,Developing
+1,2,1,2,2,2,2,Developing
+1,1,1,1,2,2,1,Developing
+2,1,1,2,2,2,2,Developing
+1,1,2,2,2,1,1,Developing
+1,2,1,2,2,1,2,Developing
+1,2,1,1,2,1,2,Developing
+1,1,1,2,2,2,2,Developing
+2,1,2,1,2,2,1,Developing
+1,2,2,1,2,2,1,Developing
+1,2,2,1,1,1,1,Developing
+1,2,2,1,1,1,2,Developing
+2,2,1,1,2,2,1,Developing
+1,2,2,1,2,2,2,Developing
+1,1,2,1,1,2,1,Developing
+1,2,1,2,2,2,1,Developing
+2,1,1,1,2,1,1,Developing
+1,2,1,2,2,1,2,Developing
+1,2,1,2,1,2,1,Developing
+1,1,2,1,1,1,1,Developing
+2,2,2,1,2,2,2,Ready
+2,1,1,2,2,2,1,Developing
+2,2,1,1,2,2,2,Developing
+2,1,1,2,2,1,1,Developing
+1,2,1,2,2,1,2,Developing
+2,2,2,1,2,1,1,Developing
+2,1,2,1,1,1,2,Developing
+2,2,2,2,2,1,2,Ready
+1,1,2,1,2,1,1,Developing
+1,2,1,2,2,1,1,Developing
+2,1,1,1,2,1,2,Developing
+2,2,2,2,1,2,1,Developing
+2,2,1,1,2,1,2,Developing
+2,1,2,1,2,1,1,Developing
+2,1,1,2,2,1,2,Developing
+2,2,1,2,1,2,2,Developing
+2,1,1,1,2,1,2,Developing
+1,2,2,1,1,1,2,Developing
+1,2,2,2,2,2,1,Developing
+1,1,1,2,2,1,1,Developing
+1,1,1,2,1,2,1,Developing
+1,2,1,1,1,1,2,Developing
+2,1,2,1,2,1,1,Developing
+2,1,1,1,1,1,1,Developing
+2,1,1,2,2,1,2,Developing
+2,1,2,2,1,2,1,Developing
+1,2,2,1,1,1,2,Developing
+1,2,2,1,1,1,2,Developing
+2,1,2,1,1,1,1,Developing
+2,1,2,1,2,2,2,Developing
+2,1,2,1,2,1,1,Developing
+1,2,1,2,1,1,2,Developing
+1,1,1,1,1,2,1,Developing
+1,1,1,1,1,1,1,Developing
+1,2,2,1,1,1,1,Developing
+2,2,2,1,2,2,2,Ready
+1,1,2,1,1,1,2,Developing
+1,2,2,2,1,1,1,Developing
+1,2,1,2,2,2,2,Developing
+1,2,2,2,1,1,2,Developing
+2,1,2,1,2,2,2,Developing
+1,1,1,2,2,2,1,Developing
+1,1,2,1,2,2,2,Developing
+1,2,1,2,2,1,2,Developing
+1,2,1,2,1,1,2,Developing
+1,2,1,1,1,2,1,Developing
+1,1,1,2,1,1,2,Developing
+1,2,2,1,1,1,2,Developing
+2,2,2,1,1,1,2,Developing
+2,2,1,1,2,1,2,Developing
+2,2,2,1,2,1,1,Developing
+2,1,1,2,2,2,2,Developing
+2,2,2,1,1,1,2,Developing
+2,2,2,2,2,2,1,Ready
+2,1,1,1,1,1,2,Developing
+1,1,2,2,2,1,1,Developing
+2,2,1,1,1,2,2,Developing
+1,1,2,2,2,1,1,Developing
+1,1,1,2,2,1,2,Developing
+1,1,1,1,1,1,2,Developing
+2,1,1,2,1,2,2,Developing
+1,2,1,1,2,1,2,Developing
+1,1,2,1,1,1,2,Developing
+1,2,1,1,1,1,1,Developing
+1,1,1,2,1,2,2,Developing
+1,1,2,1,1,1,1,Developing
+1,1,1,2,2,2,2,Developing
+1,1,1,1,1,1,1,Developing
+1,1,1,1,2,1,1,Developing
+2,1,1,1,1,2,1,Developing
+1,1,1,1,2,2,2,Developing
+1,2,1,1,2,1,1,Developing
+1,1,1,2,1,2,1,Developing
+2,1,2,2,1,2,2,Developing
+2,1,2,2,2,1,1,Developing
+2,1,2,2,2,2,2,Ready
+2,2,2,2,1,2,2,Ready
+2,1,2,1,1,2,1,Developing
+1,1,2,1,2,1,1,Developing
+2,2,1,1,1,2,1,Developing
+2,2,1,1,1,1,2,Developing
+1,2,2,2,2,1,1,Developing
+2,1,1,1,2,2,2,Developing
+2,1,1,1,2,1,2,Developing
+1,2,1,2,1,2,2,Developing
+2,2,1,1,2,1,2,Developing
+1,2,1,1,1,1,2,Developing
+1,1,1,1,1,1,1,Developing
+1,1,1,1,2,2,1,Developing
+1,2,1,1,2,2,1,Developing
+1,2,1,2,2,2,1,Developing
+1,2,2,2,1,2,2,Developing
+2,2,1,1,1,1,1,Developing
+1,2,2,2,2,1,2,Developing
+2,2,1,1,2,1,2,Developing
+2,1,2,2,1,2,1,Developing
+2,2,1,1,2,1,2,Developing
+1,2,1,1,2,2,1,Developing
+1,1,2,1,2,2,1,Developing
+2,2,2,2,1,1,2,Developing
+1,2,2,1,1,1,2,Developing
+2,2,1,1,2,2,1,Developing
+2,1,1,2,2,1,2,Developing
+1,1,1,2,2,2,2,Developing
+1,1,1,1,1,1,2,Developing
+1,1,2,2,1,2,2,Developing
+1,1,2,2,2,1,1,Developing
+1,2,1,2,1,2,1,Developing
+2,2,1,1,1,1,2,Developing
+1,2,1,2,1,2,1,Developing
+2,1,2,2,2,2,2,Ready
+1,1,1,2,2,1,2,Developing
+1,1,1,2,2,2,2,Developing
+1,1,1,1,2,1,2,Developing
+2,1,1,2,1,1,1,Developing
+1,1,1,2,2,1,1,Developing
+1,2,2,2,2,2,1,Developing
+2,1,2,1,1,2,1,Developing
+1,2,1,1,1,2,1,Developing
+2,1,1,1,2,1,1,Developing
+1,1,1,1,2,1,1,Developing
+2,2,2,1,2,1,1,Developing
+2,1,1,2,1,2,2,Developing
+2,2,1,1,2,1,1,Developing
+1,2,1,1,1,2,2,Developing
+2,2,2,2,1,1,1,Developing
+1,1,1,1,1,2,1,Developing
+2,2,2,2,1,1,1,Developing
+2,2,1,2,1,2,1,Developing
+2,1,1,1,1,2,2,Developing
+2,2,1,1,1,1,2,Developing
+1,2,1,2,1,1,1,Developing
+2,2,2,2,2,2,2,Ready
+2,1,1,1,2,2,2,Developing
+1,2,2,1,2,2,2,Developing
+2,1,1,1,2,2,2,Developing
+1,2,1,2,2,2,1,Developing
+1,2,1,1,1,2,2,Developing
+1,2,1,2,1,2,2,Developing
+2,1,2,1,1,2,1,Developing
+1,2,2,1,2,1,2,Developing
+2,2,2,2,1,1,2,Developing
+1,2,2,1,1,1,2,Developing
+2,2,1,1,2,1,1,Developing
+2,1,1,2,1,1,2,Developing
+2,1,1,1,2,2,2,Developing
+2,2,1,1,1,1,1,Developing
+1,2,1,2,2,1,1,Developing
+1,1,1,2,1,1,1,Developing
+2,2,2,1,2,2,2,Ready
+2,2,2,1,2,2,1,Developing
+2,1,1,1,1,2,1,Developing
+2,1,2,1,1,1,1,Developing
+2,2,1,1,2,1,1,Developing
+2,2,1,1,2,1,1,Developing
+1,2,2,2,2,2,2,Ready
+1,2,2,1,1,2,2,Developing
+2,2,2,2,1,1,1,Developing
+2,2,2,1,1,2,1,Developing
+2,2,1,2,1,2,2,Developing
+1,1,2,1,1,1,1,Developing
+1,2,1,1,1,2,2,Developing
+1,1,1,1,1,1,1,Developing
+2,2,2,2,2,2,1,Ready
+2,2,2,1,2,2,2,Ready
+2,1,2,1,2,1,1,Developing
+2,1,2,2,1,2,2,Developing
+2,2,1,1,1,1,2,Developing
+2,2,1,2,2,1,2,Developing
+2,2,1,1,2,1,2,Developing
+1,1,1,1,2,2,1,Developing
+2,1,1,2,2,1,1,Developing
+2,2,2,1,1,1,1,Developing
+1,1,1,1,2,2,1,Developing
+1,1,1,2,1,1,2,Developing
+2,1,1,2,1,2,2,Developing
+2,1,2,2,2,1,1,Developing
+1,2,2,2,2,1,2,Developing
+2,1,2,1,1,1,2,Developing
+1,1,2,2,1,1,2,Developing
+1,2,2,1,1,1,2,Developing
+2,1,2,1,1,2,1,Developing
+1,2,1,1,2,1,2,Developing
+2,2,2,2,2,2,2,Ready
+2,2,1,1,1,1,1,Developing
+1,2,1,1,2,1,1,Developing
+1,2,2,2,1,2,2,Developing
+2,2,1,2,1,1,2,Developing
+2,1,1,2,1,1,2,Developing
+2,2,2,1,1,1,2,Developing
+1,2,1,1,2,2,1,Developing
+1,2,2,1,2,1,1,Developing
+2,1,2,1,2,1,2,Developing
+1,2,2,2,1,1,2,Developing
+2,2,2,1,1,1,1,Developing
+1,1,1,1,1,2,2,Developing
+2,1,1,2,1,1,1,Developing
+2,2,1,1,2,2,1,Developing
+1,2,1,2,2,1,2,Developing
+1,1,2,1,1,1,2,Developing
+2,1,1,1,1,1,2,Developing
+1,1,2,1,1,2,1,Developing
+1,1,1,2,1,2,1,Developing
+2,2,2,2,1,2,1,Developing
+1,2,1,1,1,2,2,Developing
+2,1,1,2,2,2,2,Developing
+2,2,1,1,2,1,2,Developing
+1,1,1,2,2,2,2,Developing
+1,2,1,2,2,1,1,Developing
+2,1,2,1,2,1,1,Developing
+1,2,1,1,2,1,2,Developing
+1,2,2,1,1,1,1,Developing
+1,2,2,2,2,1,2,Developing
+2,1,2,2,2,1,2,Developing
+2,1,2,2,2,1,1,Developing
+1,1,1,1,1,2,1,Developing
+2,2,1,2,2,1,1,Developing
+1,2,1,1,2,1,1,Developing
+2,2,1,2,1,1,2,Developing
+2,2,1,1,2,2,1,Developing
+1,2,1,1,1,2,1,Developing
+1,2,1,2,2,1,1,Developing
+1,2,2,1,1,1,2,Developing
+2,1,2,1,2,2,1,Developing
+1,1,1,2,2,2,1,Developing
+1,2,2,2,2,2,2,Ready
+1,1,2,1,1,2,2,Developing
+2,1,2,1,1,1,2,Developing
+2,2,2,1,1,2,2,Developing
+1,1,1,2,1,2,1,Developing
+2,1,1,1,1,2,1,Developing
+1,2,1,1,2,2,2,Developing
+1,1,1,2,1,1,2,Developing
+1,1,2,1,1,2,1,Developing
+2,2,1,1,2,1,2,Developing
+1,1,2,1,2,1,1,Developing
+2,2,1,1,1,1,2,Developing
+2,2,2,1,2,1,2,Developing
+2,1,2,2,1,1,1,Developing
+2,2,1,1,2,1,2,Developing
+1,2,2,1,2,1,2,Developing
+2,1,2,2,2,1,1,Developing
+1,1,2,1,2,1,2,Developing
+1,2,2,2,1,1,2,Developing
+2,2,2,1,2,1,1,Developing
+1,1,2,1,2,2,1,Developing
+1,1,1,2,2,2,2,Developing
+1,2,2,2,2,2,2,Ready
+2,1,2,1,2,2,1,Developing
+2,1,2,2,1,1,1,Developing
+2,2,1,1,1,2,2,Developing
+2,1,2,1,1,1,1,Developing
+1,1,1,2,2,2,1,Developing
+2,2,2,2,2,1,2,Ready
+1,1,2,2,1,1,1,Developing
+1,1,2,1,2,1,1,Developing
+2,1,2,2,2,2,2,Ready
+1,1,2,2,2,2,2,Developing
+1,1,2,1,2,1,1,Developing
+2,1,2,2,1,2,1,Developing
+1,2,2,1,2,1,2,Developing
+1,2,1,2,1,2,1,Developing
+2,2,1,1,1,2,1,Developing
+1,1,2,1,1,2,1,Developing
+2,2,2,2,1,2,1,Developing
+1,2,2,2,2,2,2,Ready
+2,1,1,2,2,2,2,Developing
+1,2,2,2,2,2,1,Developing
+1,1,2,2,1,1,1,Developing
+1,1,2,2,1,2,2,Developing
+1,2,1,2,2,2,1,Developing
+2,2,1,2,1,2,1,Developing
+2,1,1,1,2,1,1,Developing
+1,2,2,2,2,1,2,Developing
+2,1,2,1,2,2,1,Developing
+2,1,2,2,2,1,2,Developing
+2,2,1,2,2,2,1,Developing
+2,1,2,2,1,2,2,Developing
+1,1,1,1,1,1,1,Developing
+1,2,1,2,2,1,1,Developing
+2,2,1,1,1,2,2,Developing
+1,2,1,2,2,2,1,Developing
+2,2,2,2,2,2,2,Ready
+1,2,1,1,2,2,2,Developing
+1,2,1,2,1,1,2,Developing
+2,2,2,1,2,2,1,Developing
+2,2,2,2,2,2,2,Ready
+1,1,1,1,1,2,1,Developing
+2,2,1,2,1,1,1,Developing
+2,2,2,2,2,2,1,Ready
+1,2,2,1,1,1,2,Developing
+2,2,2,1,2,2,2,Ready
+2,2,2,1,2,2,2,Ready
+1,2,1,1,2,2,2,Developing
+2,1,2,1,2,2,1,Developing
+2,1,1,1,2,2,1,Developing
+1,1,2,1,1,2,1,Developing
+1,1,2,2,2,1,1,Developing
+2,2,1,1,1,1,2,Developing
+1,2,2,1,2,2,1,Developing
+2,1,1,2,2,1,1,Developing
+1,2,1,1,2,2,2,Developing
+2,2,2,2,1,2,1,Developing
+1,2,2,2,1,2,1,Developing
+2,2,1,2,2,1,1,Developing
+1,1,1,1,2,1,2,Developing
+2,2,2,2,1,1,1,Developing
+1,1,2,2,2,1,2,Developing
+1,2,2,2,1,1,2,Developing
+1,2,2,2,1,2,1,Developing
+2,1,1,2,2,2,2,Developing
+2,1,1,2,1,2,2,Developing
+2,1,2,1,1,1,1,Developing
+2,2,2,1,2,1,1,Developing
+2,1,1,2,1,2,1,Developing
+2,2,1,2,2,2,1,Developing
+2,2,2,2,2,1,1,Developing
+1,1,1,1,2,1,1,Developing
+2,1,1,2,1,1,2,Developing
+1,1,1,2,2,1,1,Developing
+2,2,2,2,2,2,1,Ready
+2,2,1,1,2,2,1,Developing
+2,1,1,1,2,1,1,Developing
+1,2,2,1,2,1,2,Developing
+2,2,1,1,1,2,2,Developing
+2,1,2,2,2,2,1,Developing
+2,1,2,1,1,2,1,Developing
+1,2,2,2,1,1,1,Developing
+2,1,1,1,1,1,1,Developing
+1,2,1,2,2,2,2,Developing
+2,1,2,1,2,2,2,Developing
+2,2,1,1,1,1,1,Developing
+2,1,1,2,2,2,1,Developing
+2,2,2,1,1,2,2,Developing
+1,2,1,1,2,2,2,Developing
+1,2,1,2,1,2,1,Developing
+1,2,1,2,1,1,1,Developing
+2,1,2,1,2,1,1,Developing
+2,1,2,2,1,1,1,Developing
+1,2,2,1,2,2,1,Developing
+1,1,2,1,1,1,1,Developing
+2,1,2,2,2,1,2,Developing
+1,2,2,2,2,1,2,Developing
+1,3,2,3,1,2,2,Ready
+3,2,2,3,2,2,1,Ready
+2,2,2,2,2,1,2,Ready
+3,1,2,2,2,1,2,Ready
+1,2,2,3,1,2,2,Ready
+2,2,2,2,3,1,2,Ready
+2,2,3,2,2,1,3,Ready
+3,2,2,2,2,3,3,Ready
+1,2,1,2,2,2,1,Developing
+1,1,1,3,2,2,2,Developing
+3,2,2,2,2,2,2,Ready
+2,2,3,2,2,2,2,Ready
+2,2,1,2,3,3,2,Ready
+1,2,1,2,2,2,2,Developing
+1,1,3,2,2,3,1,Ready
+1,3,1,2,2,2,2,Ready
+2,2,3,1,2,2,3,Ready
+2,2,3,2,1,1,1,Developing
+3,2,1,3,2,2,3,Ready
+2,2,1,1,1,1,2,Developing
+2,3,3,3,3,1,2,Ready
+2,2,3,2,2,2,2,Ready
+2,2,1,3,3,1,3,Ready
+1,2,2,2,2,2,1,Developing
+3,2,1,2,2,1,2,Ready
+2,1,2,1,3,2,2,Ready
+2,1,2,2,2,2,2,Ready
+2,1,2,2,2,2,3,Ready
+1,3,1,2,2,1,3,Ready
+2,2,3,2,2,1,2,Ready
+2,2,2,2,2,2,3,Ready
+2,3,3,2,2,2,2,Ready
+3,2,2,2,3,2,2,Ready
+2,2,1,3,3,3,2,Ready
+1,1,3,1,2,2,2,Developing
+1,2,3,3,3,3,3,Competitive
+1,2,1,2,2,2,2,Developing
+2,2,3,2,1,2,2,Ready
+2,2,2,3,3,2,3,Ready
+2,2,3,2,2,2,3,Ready
+2,2,2,2,1,2,1,Developing
+2,3,1,3,1,2,2,Ready
+1,1,1,2,1,2,2,Developing
+2,2,2,2,2,2,1,Ready
+2,1,1,2,3,2,2,Ready
+2,2,2,1,3,2,1,Ready
+2,1,3,3,3,2,3,Ready
+2,3,1,2,2,3,2,Ready
+1,2,3,2,2,1,2,Ready
+2,2,2,2,2,1,2,Ready
+2,2,1,2,3,3,2,Ready
+2,2,2,2,2,2,1,Ready
+1,2,2,3,2,2,1,Ready
+2,2,3,2,2,2,3,Ready
+3,3,3,2,2,2,3,Competitive
+2,1,2,2,1,1,2,Developing
+2,2,2,2,2,2,1,Ready
+2,1,1,2,3,1,2,Developing
+1,1,3,2,2,1,1,Developing
+2,2,2,3,2,2,1,Ready
+1,2,2,3,1,2,2,Ready
+2,3,1,2,2,2,2,Ready
+2,1,1,2,2,2,3,Ready
+1,2,3,2,3,2,2,Ready
+2,2,2,2,2,2,2,Ready
+2,2,2,3,2,1,1,Ready
+2,2,2,3,2,3,2,Ready
+1,3,2,2,2,2,2,Ready
+3,2,2,2,2,2,1,Ready
+2,1,3,1,2,2,3,Ready
+2,2,2,3,3,2,2,Ready
+1,2,2,3,2,2,1,Ready
+2,1,2,2,1,2,3,Ready
+2,2,1,2,3,1,3,Ready
+2,2,2,1,2,3,2,Ready
+1,2,2,2,2,2,2,Ready
+2,1,2,2,2,1,2,Developing
+2,2,1,3,2,3,2,Ready
+2,2,2,2,2,2,1,Ready
+2,2,2,1,2,3,2,Ready
+1,2,2,2,1,2,2,Developing
+2,2,2,3,2,1,1,Ready
+2,3,2,1,2,3,2,Ready
+2,3,2,3,2,1,2,Ready
+2,2,2,3,2,2,3,Ready
+1,2,2,1,2,2,2,Developing
+3,2,2,2,2,2,2,Ready
+2,2,2,1,1,3,2,Ready
+1,3,2,1,2,2,2,Ready
+1,1,2,2,2,3,2,Ready
+3,2,3,1,2,1,2,Ready
+2,2,2,3,2,3,2,Ready
+2,1,2,1,1,2,2,Developing
+2,2,2,3,2,2,2,Ready
+3,2,3,2,3,2,2,Ready
+2,1,2,1,2,2,3,Ready
+2,3,2,2,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+1,2,2,2,3,1,2,Ready
+2,2,2,2,2,1,3,Ready
+1,2,2,1,1,2,2,Developing
+2,2,3,1,2,2,3,Ready
+1,1,2,2,2,1,2,Developing
+2,2,2,1,2,2,2,Ready
+3,1,3,1,1,1,2,Developing
+3,3,3,2,2,2,2,Ready
+3,1,2,1,3,3,3,Ready
+3,1,2,2,2,3,1,Ready
+3,1,2,2,1,1,3,Ready
+1,2,2,3,3,2,2,Ready
+1,2,2,2,1,2,2,Developing
+2,3,1,2,2,1,3,Ready
+2,2,1,2,3,2,2,Ready
+1,2,2,1,1,2,2,Developing
+1,3,2,1,2,3,2,Ready
+1,1,2,2,2,1,1,Developing
+2,3,2,2,1,2,2,Ready
+2,2,2,2,2,2,2,Ready
+2,2,3,2,1,2,1,Ready
+2,2,1,2,2,2,1,Developing
+2,3,2,2,3,2,2,Ready
+2,3,2,2,2,3,2,Ready
+1,3,3,2,2,1,3,Ready
+1,3,3,2,3,1,2,Ready
+2,2,2,2,2,2,1,Ready
+2,2,2,2,2,2,2,Ready
+2,1,3,2,1,3,2,Ready
+3,2,2,3,2,3,2,Ready
+2,2,1,2,2,2,2,Ready
+2,1,3,2,2,3,1,Ready
+1,3,1,1,2,2,2,Developing
+2,2,2,2,2,2,1,Ready
+2,1,1,2,2,2,1,Developing
+3,2,1,2,3,1,2,Ready
+3,2,2,2,2,2,2,Ready
+2,3,1,2,3,3,2,Ready
+2,3,2,2,2,1,2,Ready
+2,1,2,2,2,2,3,Ready
+2,3,2,2,3,3,2,Ready
+2,1,3,2,2,2,3,Ready
+2,1,1,1,3,3,2,Ready
+2,2,2,2,2,3,2,Ready
+3,2,2,1,2,1,2,Ready
+2,2,2,1,3,2,2,Ready
+3,2,2,2,3,2,2,Ready
+3,1,2,2,1,2,2,Ready
+2,2,1,2,2,3,2,Ready
+2,2,2,2,2,2,1,Ready
+2,2,2,2,3,2,1,Ready
+2,1,2,2,1,1,2,Developing
+3,1,3,2,2,2,2,Ready
+2,1,2,2,3,3,1,Ready
+2,2,2,3,2,2,2,Ready
+2,1,2,2,2,2,2,Ready
+2,2,2,2,1,2,2,Ready
+2,2,3,1,2,2,2,Ready
+2,2,1,2,2,2,2,Ready
+1,2,3,3,2,1,1,Ready
+2,2,2,2,2,3,2,Ready
+2,2,2,2,2,2,1,Ready
+2,2,2,3,2,1,2,Ready
+2,3,1,3,2,3,1,Ready
+2,2,2,2,2,3,3,Ready
+2,2,1,2,3,1,3,Ready
+2,2,2,3,2,1,1,Ready
+2,2,3,3,1,2,3,Ready
+2,2,1,2,1,2,2,Developing
+1,1,3,2,3,2,2,Ready
+2,2,1,3,2,2,3,Ready
+2,3,2,3,1,1,3,Ready
+3,2,1,3,2,3,2,Ready
+2,2,3,1,2,2,1,Ready
+2,2,2,2,2,2,2,Ready
+2,2,3,2,2,2,2,Ready
+3,2,3,2,2,2,2,Ready
+2,3,2,2,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+2,2,3,2,2,1,1,Ready
+1,2,2,1,2,3,1,Developing
+2,1,3,2,2,3,1,Ready
+2,3,2,2,2,2,2,Ready
+2,1,3,2,1,2,2,Ready
+1,3,2,2,3,1,2,Ready
+2,2,2,3,1,2,3,Ready
+1,2,2,3,1,1,2,Developing
+1,3,2,2,2,2,1,Ready
+1,3,1,3,2,2,2,Ready
+3,2,2,1,3,2,2,Ready
+2,3,1,2,3,1,1,Ready
+2,1,2,1,2,2,2,Developing
+2,1,2,2,3,1,1,Developing
+2,2,1,1,2,2,1,Developing
+2,3,3,2,2,2,3,Ready
+1,2,3,1,2,3,2,Ready
+2,2,1,2,1,2,1,Developing
+2,2,2,2,2,1,1,Developing
+3,3,3,2,3,2,1,Ready
+2,2,2,2,2,2,3,Ready
+2,2,2,2,3,2,2,Ready
+2,2,2,3,1,2,2,Ready
+2,2,2,3,2,2,1,Ready
+2,2,2,2,1,2,2,Ready
+3,2,2,1,3,2,1,Ready
+2,3,2,2,2,2,3,Ready
+2,2,2,3,2,2,2,Ready
+3,2,2,1,3,2,2,Ready
+2,1,2,2,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+2,2,1,3,3,3,1,Ready
+2,2,2,2,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+3,3,1,3,2,2,3,Ready
+1,2,2,2,1,3,2,Ready
+3,3,2,1,3,2,1,Ready
+2,2,3,2,2,2,3,Ready
+1,3,2,2,2,2,2,Ready
+2,2,1,1,2,1,1,Developing
+3,1,3,3,2,3,2,Ready
+2,2,3,2,3,1,1,Ready
+2,2,3,1,1,2,2,Ready
+3,2,3,2,2,1,2,Ready
+1,2,2,2,3,2,3,Ready
+2,2,2,2,2,3,2,Ready
+2,2,2,3,2,2,3,Ready
+2,2,2,2,3,2,3,Ready
+2,2,2,2,2,2,2,Ready
+3,3,3,1,2,2,2,Ready
+2,3,1,2,1,1,2,Developing
+2,2,2,1,3,2,2,Ready
+2,1,2,2,2,1,3,Ready
+2,3,2,2,3,3,3,Competitive
+3,1,3,2,2,2,2,Ready
+2,3,3,1,2,2,2,Ready
+1,2,3,2,2,2,2,Ready
+1,3,3,2,2,2,1,Ready
+2,2,2,2,2,1,1,Developing
+3,2,1,2,3,2,2,Ready
+1,2,1,1,3,2,1,Developing
+3,3,1,1,2,2,2,Ready
+3,2,2,2,2,2,3,Ready
+3,3,1,3,3,2,2,Ready
+3,3,2,2,1,3,2,Ready
+3,3,1,2,2,1,2,Ready
+2,2,1,2,2,2,2,Ready
+2,2,2,2,2,1,2,Ready
+3,1,2,2,2,1,2,Ready
+2,2,2,3,1,2,1,Ready
+2,1,2,1,2,2,3,Ready
+3,3,2,2,2,2,2,Ready
+2,3,2,3,1,2,2,Ready
+2,2,3,2,2,3,2,Ready
+2,3,3,2,2,2,2,Ready
+2,3,1,2,2,2,1,Ready
+1,2,2,2,2,2,1,Developing
+2,2,2,2,3,1,2,Ready
+1,2,2,2,2,3,2,Ready
+1,2,2,2,3,2,3,Ready
+2,2,2,1,2,1,2,Developing
+1,2,2,1,1,2,2,Developing
+3,2,2,2,2,1,2,Ready
+2,2,2,3,2,2,2,Ready
+3,3,2,2,2,3,2,Ready
+2,2,3,2,2,2,1,Ready
+2,1,3,2,2,2,3,Ready
+2,2,3,2,2,2,2,Ready
+1,2,2,3,1,2,1,Developing
+2,2,3,2,2,2,2,Ready
+2,1,2,3,2,3,2,Ready
+2,2,2,2,2,2,1,Ready
+2,2,2,1,2,2,1,Developing
+3,2,2,2,3,2,2,Ready
+1,2,2,2,2,2,2,Ready
+1,2,1,1,2,1,3,Developing
+2,2,1,3,2,1,2,Ready
+2,3,3,1,2,1,2,Ready
+3,2,1,2,2,2,1,Ready
+2,2,2,2,3,2,3,Ready
+2,2,2,2,2,2,2,Ready
+1,3,3,2,3,1,3,Ready
+2,1,2,2,2,1,1,Developing
+2,3,1,3,2,1,3,Ready
+1,2,3,1,2,3,1,Ready
+2,3,2,2,2,1,1,Ready
+2,3,1,2,2,2,2,Ready
+2,3,2,2,1,2,2,Ready
+3,2,1,2,2,2,3,Ready
+3,2,2,2,2,2,3,Ready
+2,2,3,3,3,3,1,Ready
+2,1,1,1,3,2,2,Developing
+2,2,2,3,2,1,2,Ready
+3,1,2,2,2,2,1,Ready
+2,1,1,2,2,3,2,Ready
+3,3,2,2,1,2,1,Ready
+2,2,2,3,2,1,2,Ready
+2,3,2,2,2,2,3,Ready
+3,3,2,2,2,1,1,Ready
+2,3,3,2,2,3,2,Ready
+2,2,3,2,2,3,2,Ready
+1,2,2,1,2,1,2,Developing
+2,2,2,3,2,1,2,Ready
+2,2,2,2,2,3,2,Ready
+3,3,3,3,3,2,2,Competitive
+2,1,2,2,2,3,2,Ready
+2,1,2,2,1,3,2,Ready
+3,2,2,3,2,2,1,Ready
+2,1,2,2,2,3,1,Ready
+3,1,2,2,2,1,2,Ready
+3,1,2,1,3,2,2,Ready
+2,2,2,3,1,3,1,Ready
+2,3,1,3,3,2,2,Ready
+2,3,3,3,1,1,2,Ready
+2,2,3,3,2,2,3,Ready
+1,2,1,3,2,2,2,Ready
+1,2,3,1,1,2,2,Developing
+3,2,2,1,3,2,2,Ready
+1,3,2,2,3,2,1,Ready
+2,2,1,2,3,1,2,Ready
+3,3,2,3,2,2,3,Competitive
+3,3,3,2,2,2,1,Ready
+3,1,2,2,1,2,3,Ready
+2,1,3,3,1,3,3,Ready
+2,3,2,2,3,3,2,Ready
+2,2,3,2,2,1,2,Ready
+1,2,2,2,1,3,3,Ready
+1,2,3,2,2,2,3,Ready
+1,3,2,3,3,2,2,Ready
+2,2,2,2,3,2,1,Ready
+2,2,1,3,2,2,3,Ready
+3,2,2,3,3,2,2,Ready
+2,3,2,2,1,3,2,Ready
+2,2,2,2,3,2,3,Ready
+2,2,2,1,2,2,2,Ready
+2,1,3,3,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+1,2,2,1,2,1,2,Developing
+1,2,2,3,3,2,1,Ready
+1,2,2,1,1,2,2,Developing
+3,1,2,2,1,1,3,Ready
+2,2,2,2,2,1,3,Ready
+2,2,2,1,3,2,1,Ready
+3,2,2,3,2,2,3,Ready
+2,3,3,1,2,2,2,Ready
+2,2,3,2,2,1,1,Ready
+1,1,2,1,2,2,2,Developing
+3,3,2,2,3,3,2,Competitive
+1,1,2,3,2,2,2,Ready
+2,3,2,2,2,2,2,Ready
+2,3,2,2,3,3,3,Competitive
+1,2,2,1,3,2,1,Developing
+2,2,2,2,2,3,2,Ready
+2,2,2,3,1,1,2,Ready
+2,2,2,3,1,2,1,Ready
+3,1,1,3,2,2,3,Ready
+3,2,2,1,2,2,3,Ready
+1,3,1,2,1,2,3,Ready
+3,2,3,3,2,2,3,Competitive
+2,3,2,3,2,1,2,Ready
+2,2,3,1,1,1,2,Developing
+2,2,2,2,2,2,3,Ready
+2,2,2,3,1,2,2,Ready
+1,1,2,2,3,3,2,Ready
+2,2,2,2,2,1,3,Ready
+2,1,2,2,2,2,3,Ready
+1,2,2,2,2,1,2,Developing
+2,2,1,3,2,2,1,Ready
+2,2,2,2,2,2,2,Ready
+1,2,2,2,2,2,2,Ready
+3,2,2,2,2,2,1,Ready
+2,2,1,3,3,2,2,Ready
+3,2,2,1,2,3,3,Ready
+3,1,1,2,1,2,2,Developing
+2,2,3,2,2,2,3,Ready
+1,2,1,2,2,2,2,Developing
+3,2,2,1,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+2,3,1,2,2,1,3,Ready
+3,2,3,3,3,2,2,Competitive
+2,3,1,1,3,2,2,Ready
+1,2,2,1,3,2,3,Ready
+1,3,1,1,1,2,2,Developing
+1,2,2,2,2,3,2,Ready
+3,3,2,3,2,1,2,Ready
+2,1,2,3,2,2,2,Ready
+1,2,3,3,1,2,3,Ready
+2,3,2,3,2,2,2,Ready
+2,3,2,2,3,2,2,Ready
+3,1,3,2,1,1,2,Ready
+2,3,2,3,2,1,2,Ready
+2,1,2,3,2,2,2,Ready
+3,3,1,3,2,3,2,Ready
+1,1,2,2,1,3,2,Developing
+2,1,1,2,2,3,1,Developing
+2,1,2,2,2,2,2,Ready
+2,1,2,2,1,2,2,Developing
+3,1,1,1,2,2,3,Ready
+1,1,3,2,2,2,2,Ready
+2,1,1,3,2,2,3,Ready
+2,2,2,2,2,1,2,Ready
+3,2,2,1,2,3,1,Ready
+2,2,2,2,2,2,1,Ready
+3,1,2,2,2,2,1,Ready
+1,2,3,2,2,1,3,Ready
+2,2,2,2,2,2,3,Ready
+2,3,3,1,3,1,2,Ready
+1,2,2,2,1,2,2,Developing
+3,2,1,2,1,3,2,Ready
+1,1,2,1,2,2,1,Developing
+2,2,2,1,2,1,2,Developing
+3,3,2,2,3,2,2,Ready
+2,1,2,2,2,1,3,Ready
+2,1,3,3,2,2,1,Ready
+1,2,2,2,3,2,2,Ready
+2,2,2,1,2,2,2,Ready
+1,2,2,2,3,3,2,Ready
+3,2,2,1,2,2,2,Ready
+3,2,1,2,2,2,1,Ready
+2,2,3,2,1,2,2,Ready
+2,3,2,2,2,2,1,Ready
+2,1,2,2,2,2,1,Developing
+2,2,2,2,2,2,3,Ready
+3,2,1,2,1,1,2,Developing
+2,2,2,3,2,2,1,Ready
+3,2,2,2,3,2,2,Ready
+2,3,2,2,2,1,3,Ready
+1,1,3,1,2,3,3,Ready
+1,2,1,2,2,2,2,Developing
+3,1,2,2,2,2,2,Ready
+2,2,2,2,2,1,2,Ready
+2,2,2,2,2,2,2,Ready
+1,1,1,2,2,2,1,Developing
+2,2,2,2,2,3,2,Ready
+1,2,2,2,2,2,2,Ready
+3,3,2,3,2,1,2,Ready
+2,2,2,3,1,2,3,Ready
+3,2,3,3,2,2,2,Ready
+1,2,1,3,2,2,2,Ready
+1,2,3,1,2,1,2,Developing
+1,3,1,2,1,2,2,Developing
+2,3,2,1,1,2,2,Ready
+2,2,2,2,1,3,2,Ready
+1,1,1,2,2,3,2,Developing
+2,2,2,3,2,1,2,Ready
+3,2,2,2,3,2,3,Ready
+2,2,1,2,1,1,2,Developing
+2,1,1,1,1,3,2,Developing
+2,2,2,2,1,2,3,Ready
+2,2,2,2,1,2,2,Ready
+2,3,2,2,1,2,2,Ready
+1,1,3,2,2,3,2,Ready
+3,2,1,3,2,2,2,Ready
+3,1,2,2,1,2,1,Developing
+1,1,2,2,2,2,3,Ready
+2,1,1,2,2,3,2,Ready
+2,3,1,2,2,1,3,Ready
+3,2,3,3,3,2,2,Competitive
+2,2,2,1,3,3,1,Ready
+1,1,3,2,2,2,2,Ready
+3,3,2,3,2,2,3,Competitive
+2,1,2,2,1,2,2,Developing
+1,2,2,3,3,2,2,Ready
+2,2,2,2,2,1,2,Ready
+1,1,1,1,3,2,2,Developing
+3,1,1,1,3,1,2,Developing
+2,2,1,2,2,2,2,Ready
+1,2,3,2,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+1,2,2,2,2,2,2,Ready
+1,1,2,3,2,3,2,Ready
+1,1,2,2,2,3,3,Ready
+2,2,2,2,2,3,2,Ready
+1,1,2,2,1,1,2,Developing
+2,1,2,2,3,1,2,Ready
+2,2,2,3,2,2,2,Ready
+3,2,1,2,2,2,2,Ready
+2,1,3,2,2,3,1,Ready
+2,3,2,1,2,2,2,Ready
+1,2,1,2,2,1,2,Developing
+1,3,3,2,1,2,1,Ready
+2,2,3,2,2,3,1,Ready
+1,1,2,2,1,3,2,Developing
+2,1,2,2,2,2,1,Developing
+2,1,2,2,2,3,1,Ready
+2,3,2,2,3,3,3,Competitive
+3,1,2,3,2,2,1,Ready
+2,1,2,3,2,1,1,Developing
+2,3,2,1,2,2,1,Ready
+2,2,1,1,2,2,2,Developing
+1,2,2,2,3,1,1,Developing
+3,1,2,1,2,3,2,Ready
+2,3,2,2,1,2,1,Ready
+2,2,2,3,2,3,3,Ready
+1,1,2,2,2,1,2,Developing
+1,3,3,2,1,2,2,Ready
+2,2,2,2,1,2,1,Developing
+2,2,1,3,3,2,2,Ready
+1,3,1,2,2,2,1,Developing
+2,2,2,3,3,3,3,Competitive
+2,2,1,2,1,1,2,Developing
+1,2,3,1,3,2,2,Ready
+1,3,2,1,2,2,2,Ready
+2,3,2,1,2,2,2,Ready
+1,1,1,2,2,1,2,Developing
+2,1,2,2,1,2,3,Ready
+1,2,2,2,1,2,3,Ready
+2,2,2,2,3,1,2,Ready
+1,2,2,3,2,1,1,Developing
+2,2,2,2,2,2,1,Ready
+2,1,2,1,2,2,2,Developing
+2,2,2,1,2,3,2,Ready
+2,2,3,2,2,2,2,Ready
+2,2,2,2,2,3,2,Ready
+3,2,3,2,2,2,2,Ready
+2,2,2,1,2,2,3,Ready
+1,1,3,2,1,2,1,Developing
+2,2,3,2,3,2,1,Ready
+3,3,3,2,3,2,3,Competitive
+2,3,2,2,2,2,2,Ready
+2,2,3,2,2,3,1,Ready
+2,2,2,2,1,1,3,Ready
+3,2,2,2,2,2,2,Ready
+2,1,3,1,2,1,3,Ready
+2,2,2,2,2,2,2,Ready
+2,1,2,2,1,3,3,Ready
+2,1,1,1,3,1,2,Developing
+2,2,1,2,3,1,2,Ready
+2,2,2,1,2,2,2,Ready
+1,1,1,3,2,2,2,Developing
+3,2,3,3,2,2,3,Competitive
+3,2,3,3,2,2,2,Ready
+2,1,3,2,2,3,1,Ready
+2,3,2,2,3,2,2,Ready
+1,2,3,2,1,3,2,Ready
+3,3,2,2,2,2,2,Ready
+1,2,3,1,1,3,2,Ready
+1,1,2,3,2,1,1,Developing
+2,3,2,2,1,3,1,Ready
+2,1,2,2,3,3,2,Ready
+2,2,1,2,2,2,2,Ready
+3,2,2,3,2,2,2,Ready
+2,2,2,2,3,3,1,Ready
+3,2,2,2,2,2,1,Ready
+2,2,2,1,1,2,2,Developing
+1,3,2,2,2,1,1,Developing
+2,2,2,2,2,3,1,Ready
+3,1,2,2,2,2,2,Ready
+1,2,3,1,2,2,2,Ready
+2,2,1,2,2,3,2,Ready
+1,2,2,2,2,3,3,Ready
+2,2,3,2,2,2,2,Ready
+2,2,2,1,3,1,2,Ready
+1,1,1,2,3,3,2,Ready
+2,2,2,2,3,3,2,Ready
+1,2,1,1,2,1,1,Developing
+3,2,2,1,2,1,2,Ready
+2,2,2,2,3,2,2,Ready
+2,2,3,2,2,1,1,Ready
+2,3,2,2,1,1,2,Ready
+2,2,2,2,2,3,2,Ready
+2,3,2,2,3,2,3,Ready
+1,2,2,2,2,2,2,Ready
+2,2,1,2,3,2,2,Ready
+2,2,1,3,3,2,2,Ready
+2,1,2,1,2,2,1,Developing
+2,2,3,3,3,2,1,Ready
+2,3,3,2,2,3,3,Competitive
+1,1,2,2,1,2,2,Developing
+1,1,3,3,1,1,1,Developing
+2,1,2,2,2,1,2,Developing
+1,2,2,2,2,1,3,Ready
+2,3,1,3,2,2,2,Ready
+2,2,3,1,3,2,1,Ready
+2,3,2,1,2,3,2,Ready
+3,1,2,1,1,2,3,Ready
+2,2,3,3,2,1,3,Ready
+2,2,2,2,2,2,1,Ready
+2,2,3,2,2,2,2,Ready
+1,2,3,2,2,2,2,Ready
+1,1,2,1,2,2,2,Developing
+2,2,2,2,3,1,2,Ready
+2,2,2,2,2,2,2,Ready
+2,2,2,2,2,2,2,Ready
+1,2,2,2,2,2,3,Ready
+1,2,2,2,1,2,2,Developing
+1,2,2,3,1,2,2,Ready
+2,2,2,1,2,2,1,Developing
+2,2,3,2,2,1,2,Ready
+2,3,2,2,2,2,1,Ready
+2,3,1,3,3,1,2,Ready
+3,3,3,2,2,2,2,Ready
+2,3,1,2,2,2,2,Ready
+2,1,1,3,2,2,3,Ready
+1,2,3,2,1,1,2,Developing
+2,3,2,2,2,2,1,Ready
+3,2,2,3,1,2,2,Ready
+3,2,2,2,2,2,3,Ready
+1,2,2,1,2,2,1,Developing
+1,2,2,2,3,2,2,Ready
+1,1,3,1,1,2,2,Developing
+2,1,2,2,2,3,2,Ready
+2,3,3,3,2,2,2,Ready
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,2,3,2,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,2,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,2,3,3,2,3,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,2,2,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,2,2,3,3,2,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+3,3,3,2,3,2,2,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,2,2,3,3,3,Competitive
+3,3,3,2,3,2,2,Competitive
+3,3,3,2,2,3,3,Competitive
+3,3,2,2,3,3,3,Competitive
+3,3,2,2,3,2,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,3,3,2,3,3,2,Competitive
+3,3,2,2,3,2,3,Competitive
+3,2,2,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,2,3,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+2,3,3,3,2,3,3,Competitive
+3,2,3,2,2,3,2,Ready
+3,3,3,3,3,2,3,Competitive
+3,3,2,3,2,2,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,2,Competitive
+3,3,2,3,3,2,3,Competitive
+2,2,2,3,2,3,3,Ready
+3,2,3,3,2,3,3,Competitive
+3,3,3,3,3,2,2,Competitive
+2,2,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+2,2,2,2,3,3,3,Ready
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,2,3,2,3,3,3,Competitive
+2,3,3,3,2,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,2,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,3,2,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,2,3,2,3,Competitive
+2,3,2,3,3,3,3,Competitive
+2,3,3,3,3,2,2,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,3,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,3,3,2,Competitive
+2,3,3,3,3,3,3,Competitive
+2,3,3,3,2,3,2,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,2,3,3,Competitive
+2,3,2,3,2,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+2,3,2,3,3,3,3,Competitive
+2,2,3,2,3,2,3,Ready
+3,3,2,2,3,2,3,Competitive
+2,3,3,3,3,3,3,Competitive
+2,2,2,2,3,3,3,Ready
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+2,2,2,3,3,3,3,Competitive
+3,2,2,3,2,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+2,3,2,3,2,2,2,Ready
+2,2,3,3,2,3,3,Competitive
+3,2,3,2,3,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,2,3,3,3,2,Ready
+2,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+2,3,3,2,3,2,2,Ready
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,3,3,3,3,3,Competitive
+2,2,2,2,3,3,2,Ready
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,3,2,2,Competitive
+3,3,3,3,2,3,2,Competitive
+3,2,3,3,2,3,3,Competitive
+3,3,2,3,3,2,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,3,2,3,2,2,Competitive
+2,2,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,2,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,2,3,3,Competitive
+2,2,2,3,3,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,2,2,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,2,2,3,3,3,2,Competitive
+3,3,3,2,2,3,3,Competitive
+2,2,3,2,3,2,3,Ready
+2,2,3,3,2,3,3,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,3,2,2,3,2,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,2,3,3,2,3,Competitive
+3,3,2,3,3,2,3,Competitive
+2,3,2,3,3,2,3,Competitive
+3,3,3,3,3,2,2,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,2,3,2,3,Competitive
+3,2,2,3,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,2,3,3,2,3,Competitive
+3,3,2,2,3,3,3,Competitive
+3,3,3,3,2,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,3,2,3,3,3,Competitive
+3,2,3,3,3,2,2,Competitive
+2,2,3,3,3,2,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,3,3,2,3,2,3,Competitive
+2,3,2,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,2,2,3,2,2,Ready
+2,2,3,3,2,2,3,Ready
+2,2,2,3,2,3,3,Ready
+3,2,3,3,2,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,3,3,3,3,3,Competitive
+2,2,3,3,2,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,2,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,3,3,2,2,2,Ready
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,3,3,2,2,2,Ready
+3,3,3,2,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,3,3,2,Competitive
+3,3,3,2,3,2,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,2,3,3,3,2,3,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,3,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,2,3,3,2,3,Competitive
+2,3,2,3,2,2,3,Ready
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,2,2,3,Competitive
+3,2,3,3,2,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,2,2,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,2,3,3,3,2,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,2,2,2,Competitive
+3,3,3,2,2,3,3,Competitive
+3,2,3,3,2,3,2,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,3,2,3,Competitive
+2,3,3,2,3,3,3,Competitive
+3,2,3,2,3,2,2,Ready
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,2,3,3,3,Competitive
+2,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,2,2,3,3,3,Competitive
+3,2,2,2,2,3,3,Ready
+3,3,3,2,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,2,2,2,2,3,Ready
+2,2,3,3,3,2,2,Ready
+2,3,3,3,3,3,3,Competitive
+3,2,2,2,3,2,3,Ready
+2,3,3,2,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,3,3,3,2,2,Competitive
+2,3,2,3,2,3,3,Competitive
+3,3,2,3,2,3,3,Competitive
+2,3,3,2,3,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,2,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,2,2,2,Competitive
+3,2,2,2,3,3,3,Competitive
+3,3,2,3,3,2,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,2,2,3,2,Competitive
+2,3,3,3,3,2,3,Competitive
+3,3,3,2,2,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,3,2,3,3,3,Competitive
+3,3,2,3,2,3,2,Competitive
+3,2,3,3,2,2,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,2,3,2,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,2,3,3,2,3,Competitive
+2,2,3,2,3,3,3,Competitive
+2,3,3,3,2,2,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,2,3,3,3,2,Competitive
+2,2,2,3,3,3,2,Ready
+3,3,3,3,2,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,2,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+2,3,2,2,3,3,3,Competitive
+3,2,3,3,3,2,3,Competitive
+2,2,3,3,2,3,3,Competitive
+2,2,2,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,3,3,2,2,3,Competitive
+3,2,3,2,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,3,2,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,2,3,2,2,2,2,Ready
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,3,2,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+3,2,2,3,2,3,3,Competitive
+2,2,3,2,2,3,3,Ready
+2,3,2,3,3,3,3,Competitive
+3,2,3,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,3,3,3,2,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,3,3,2,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,3,2,2,3,2,Ready
+3,3,3,2,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,3,3,2,3,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,2,3,3,2,3,Competitive
+2,3,2,3,3,3,2,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,2,3,2,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,2,3,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,2,2,3,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,2,3,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+3,2,2,3,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,2,2,3,3,3,3,Competitive
+2,3,3,3,2,3,2,Competitive
+3,3,2,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,2,2,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,2,2,3,3,Competitive
+3,3,2,3,2,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,2,3,2,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+2,2,2,2,3,3,3,Ready
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+2,3,2,2,3,3,2,Ready
+3,3,2,3,3,2,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+3,2,3,3,2,3,3,Competitive
+2,2,3,3,2,3,3,Competitive
+2,3,3,3,2,2,3,Competitive
+3,3,2,3,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,2,3,3,3,3,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,2,3,2,2,3,Ready
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,2,3,3,2,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,2,3,3,3,3,Competitive
+2,3,3,3,3,2,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,3,3,3,3,2,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,2,2,2,3,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,2,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,2,3,3,2,3,3,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,2,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,2,3,3,2,2,Ready
+3,3,2,3,3,3,2,Competitive
+3,2,3,3,2,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,2,2,3,Competitive
+3,3,2,2,2,3,2,Ready
+2,3,3,3,2,3,3,Competitive
+3,3,2,2,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,2,3,2,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,3,3,3,2,3,Competitive
+2,2,2,2,3,3,3,Ready
+3,2,3,3,3,3,2,Competitive
+2,3,3,2,2,2,3,Ready
+3,3,3,3,3,2,2,Competitive
+3,3,2,3,2,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,3,2,2,3,3,Ready
+3,2,3,2,3,3,3,Competitive
+3,3,2,3,2,3,3,Competitive
+3,2,2,3,2,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,2,2,Competitive
+3,3,3,3,2,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,2,2,3,3,Competitive
+3,2,3,3,2,3,2,Competitive
+2,3,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,2,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,2,2,3,3,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,3,2,3,2,3,Competitive
+3,3,2,3,2,2,3,Competitive
+2,3,3,3,3,3,3,Competitive
+2,3,3,3,3,2,3,Competitive
+2,3,2,2,2,2,2,Ready
+2,3,3,2,2,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+2,2,3,3,3,3,3,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+2,3,3,3,2,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,2,3,3,3,3,3,Competitive
+3,3,2,2,3,3,3,Competitive
+3,2,2,2,3,2,3,Ready
+3,3,3,3,3,2,3,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,3,3,3,3,3,2,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,2,3,2,3,2,Competitive
+2,3,3,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,2,3,3,2,Competitive
+3,2,3,2,3,3,3,Competitive
+3,2,3,3,2,3,3,Competitive
+2,3,2,2,2,3,3,Ready
+3,3,2,3,2,2,2,Ready
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,2,3,3,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,3,3,3,2,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,2,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,2,3,2,2,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,2,2,3,3,2,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+2,3,3,3,3,2,3,Competitive
+3,3,2,2,3,3,3,Competitive
+2,2,2,3,3,3,3,Competitive
+3,3,3,3,3,2,2,Competitive
+3,3,3,2,3,3,3,Competitive
+2,2,2,3,2,2,3,Ready
+3,3,3,3,3,2,3,Competitive
+3,3,3,3,2,3,2,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,2,3,3,3,2,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+2,3,3,3,2,3,3,Competitive
+3,3,3,3,2,3,2,Competitive
+3,3,3,2,2,3,3,Competitive
+3,3,3,3,3,2,2,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,2,3,3,2,Competitive
+3,3,3,2,2,3,3,Competitive
+3,3,3,3,2,3,3,Competitive
+3,2,3,2,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,2,3,3,2,Competitive
+3,2,3,3,3,3,2,Competitive
+3,3,2,2,2,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,2,3,2,3,3,Competitive
+2,2,3,2,3,3,2,Ready
+2,3,2,2,2,3,3,Ready
+3,3,3,3,3,3,3,Competitive
+3,2,2,3,3,3,2,Competitive
+3,2,3,3,3,2,2,Competitive
+3,2,2,3,3,3,2,Competitive
+3,3,3,3,2,3,3,Competitive
+3,3,2,3,3,2,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,3,3,3,2,3,3,Competitive
+2,3,3,3,3,2,3,Competitive
+3,3,3,3,3,2,2,Competitive
+3,2,3,2,3,2,3,Competitive
+3,3,2,3,2,3,3,Competitive
+2,3,3,3,3,3,3,Competitive
+3,3,3,3,2,3,2,Competitive
+2,3,2,3,3,3,3,Competitive
+3,3,2,2,3,3,2,Competitive
+3,3,3,3,2,3,2,Competitive
+3,2,3,2,3,3,3,Competitive
+2,3,3,2,3,3,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,2,3,2,3,3,3,Competitive
+2,3,2,2,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,3,3,3,3,3,2,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,3,3,3,2,3,Competitive
+3,3,2,3,3,3,3,Competitive
+3,3,3,3,3,3,3,Competitive
+2,2,2,3,3,3,3,Competitive
+3,2,3,3,3,2,3,Competitive
+3,3,3,3,3,3,3,Competitive
+3,3,3,2,3,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,2,3,3,3,3,3,Competitive
+3,3,3,2,3,2,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,3,3,3,3,3,2,Competitive
+2,3,2,2,3,3,2,Ready
+2,2,3,2,2,3,3,Ready
+3,2,2,3,2,3,3,Competitive
+3,3,3,3,3,3,2,Competitive
+2,3,2,3,3,2,2,Ready
+3,3,3,3,2,3,3,Competitive
+1,2,3,3,3,2,3,Ready
+3,2,2,0,2,3,3,Ready
+2,2,3,3,3,1,2,Ready
+2,2,2,2,2,0,2,Developing
+2,3,0,3,3,2,2,Ready
+2,3,0,3,2,2,2,Ready
+1,2,3,2,3,2,3,Ready
+2,2,2,2,2,2,0,Developing
+3,2,3,3,3,3,0,Ready
+2,1,2,2,2,3,2,Ready
+3,3,2,0,3,3,2,Ready
+3,2,2,2,3,2,1,Ready
+3,2,1,3,3,3,3,Competitive
+2,2,2,2,1,3,2,Ready
+3,2,1,3,3,3,2,Ready
+3,0,3,2,3,2,3,Ready
+2,2,3,2,0,2,3,Ready
+3,0,3,3,3,3,3,Competitive
+3,2,3,0,2,2,3,Ready
+3,2,3,3,1,3,2,Ready
+2,2,2,3,2,3,0,Ready
+3,2,2,2,3,1,3,Ready
+3,2,0,2,3,2,2,Ready
+3,3,1,2,3,2,3,Ready
+3,1,3,2,3,2,2,Ready
+2,3,3,2,3,3,1,Ready
+2,1,3,2,3,2,2,Ready
+2,2,3,2,3,2,0,Ready
+0,2,2,3,3,3,2,Ready
+3,2,2,1,2,3,2,Ready
+2,0,2,2,2,3,2,Ready
+2,2,2,3,1,3,2,Ready
+2,1,3,3,3,3,2,Ready
+3,1,2,2,2,2,2,Ready
+2,2,3,3,2,1,3,Ready
+2,2,3,3,0,2,3,Ready
+3,3,3,2,0,2,3,Ready
+1,3,3,3,3,2,3,Competitive
+2,2,2,1,3,2,2,Ready
+3,2,2,3,3,3,1,Ready
+3,2,1,3,2,2,2,Ready
+0,2,2,3,3,3,3,Ready
+2,1,2,3,2,3,2,Ready
+2,0,2,3,2,3,2,Ready
+2,3,3,3,0,2,3,Ready
+3,3,0,3,2,2,3,Ready
+3,2,2,3,3,1,3,Ready
+3,2,3,0,2,3,3,Ready
+1,2,2,3,3,3,3,Ready
+1,2,3,2,3,3,2,Ready
+3,1,2,3,2,3,3,Ready
+3,3,3,2,3,2,1,Ready
+2,2,3,1,2,2,3,Ready
+3,0,3,3,2,3,2,Ready
+2,2,3,2,3,1,2,Ready
+3,2,2,0,3,3,2,Ready
+3,3,3,2,2,1,3,Ready
+2,2,3,2,0,3,2,Ready
+3,1,2,3,2,3,3,Ready
+3,2,2,2,3,1,3,Ready
+3,3,3,3,2,2,1,Ready
+3,2,0,3,2,2,2,Ready
+2,2,2,2,1,3,2,Ready
+2,3,3,1,3,2,2,Ready
+2,1,2,3,2,2,3,Ready
+3,2,2,3,3,3,1,Ready
+2,2,1,2,2,3,3,Ready
+2,3,2,3,1,2,3,Ready
+2,2,2,2,3,1,2,Ready
+3,3,3,2,2,3,1,Ready
+3,2,2,3,3,3,0,Ready
+3,3,3,3,3,0,3,Competitive
+2,2,2,1,2,2,3,Ready
+2,2,3,3,3,1,2,Ready
+3,3,3,3,3,2,0,Ready
+1,3,3,3,2,2,3,Ready
+3,2,1,3,3,2,3,Ready
+2,3,2,1,2,3,2,Ready
+2,2,2,0,2,3,3,Ready
+0,3,2,2,2,3,2,Ready
+2,0,3,3,3,3,3,Ready
+2,3,1,2,3,2,3,Ready
+3,3,0,3,3,3,2,Ready
+1,2,3,2,3,3,2,Ready
+2,2,3,2,2,3,0,Ready
+2,2,3,3,2,0,3,Ready
+2,3,3,2,2,0,2,Ready
+2,2,2,3,1,3,2,Ready
+2,3,2,3,3,0,2,Ready
+2,3,3,3,2,3,1,Ready
+3,3,2,2,3,2,1,Ready
+3,2,3,2,2,0,3,Ready
+3,3,1,3,3,3,3,Competitive
+2,3,3,2,1,3,2,Ready
+3,2,3,2,2,3,1,Ready
+0,2,3,3,2,2,3,Ready
+2,1,3,2,3,3,3,Ready
+2,3,2,2,2,2,0,Ready
+3,3,3,0,2,3,2,Ready
+2,2,2,1,3,2,2,Ready
+3,2,3,3,0,3,3,Ready
+2,2,3,3,1,3,2,Ready
+0,3,3,2,2,2,2,Ready
+3,3,3,3,1,2,2,Ready
+1,2,3,3,2,3,2,Ready
+3,2,1,2,3,2,3,Ready
+3,0,3,3,2,2,3,Ready
+1,2,2,3,3,2,2,Ready
+2,2,2,2,2,3,1,Ready
+2,3,2,3,2,1,3,Ready
+3,3,3,3,2,1,3,Competitive
+2,3,3,2,2,0,3,Ready
+3,2,2,0,3,3,3,Ready
+3,1,2,3,2,2,2,Ready
+2,3,2,3,3,2,1,Ready
+3,2,3,1,3,3,3,Competitive
+3,2,3,2,1,2,2,Ready
+3,2,3,2,2,1,3,Ready
+3,2,3,2,1,3,3,Ready
+2,3,3,3,2,2,1,Ready
+1,3,3,2,2,3,3,Ready
+3,2,3,2,3,0,2,Ready
+0,2,3,2,3,3,2,Ready
+1,3,3,3,2,3,3,Competitive
+3,3,3,3,0,3,2,Ready
+3,3,3,2,3,2,1,Ready
+2,2,3,1,3,2,2,Ready
+3,2,1,2,2,3,2,Ready
+2,3,1,2,2,3,3,Ready
+3,3,0,2,2,2,2,Ready
+3,2,1,2,2,2,2,Ready
+3,2,2,1,3,3,2,Ready
+0,3,2,3,3,3,2,Ready
+1,2,2,3,2,2,3,Ready
+3,3,3,2,3,0,2,Ready
+2,3,1,2,3,3,2,Ready
+3,2,3,2,2,0,3,Ready
+2,1,2,3,2,2,3,Ready
+2,1,2,3,2,2,2,Ready
+0,2,2,2,2,3,2,Ready
+3,2,2,1,3,3,3,Ready
+3,2,2,3,0,2,3,Ready
+2,3,3,3,1,2,3,Ready
+3,2,3,2,3,2,1,Ready
+2,2,3,3,3,3,1,Ready
+3,2,2,2,1,3,3,Ready
+2,3,3,3,2,3,1,Ready
+3,2,2,2,0,2,3,Ready
+2,3,2,0,2,2,3,Ready
+0,2,3,2,2,2,2,Ready
+2,3,2,1,2,2,2,Ready
+3,0,2,2,2,2,2,Ready
+2,1,2,3,2,3,2,Ready
+0,2,3,2,2,3,3,Ready
+2,3,2,3,3,2,0,Ready
+2,3,3,2,3,2,0,Ready
+2,1,3,2,3,3,3,Ready
+3,2,2,3,3,3,1,Ready
+3,1,3,2,2,3,3,Ready
+3,2,2,3,3,2,1,Ready
+3,3,2,0,2,2,2,Ready
+3,2,3,0,2,2,2,Ready
+2,2,3,3,2,2,0,Ready
+2,3,2,3,3,1,2,Ready
+2,3,3,2,1,2,3,Ready
+2,3,2,3,3,0,2,Ready
+2,3,3,3,3,2,1,Ready
+3,3,3,3,2,2,0,Ready
+3,1,3,3,3,2,3,Competitive
+2,3,2,3,3,0,2,Ready
+0,2,3,2,3,2,2,Ready
+3,2,3,3,2,3,1,Ready
+2,3,0,2,2,3,3,Ready
+2,3,0,2,3,2,2,Ready
+3,1,3,2,3,3,3,Competitive
+3,3,3,1,2,3,2,Ready
+2,3,3,0,3,3,3,Ready
+1,3,3,2,3,2,3,Ready
+1,2,3,2,2,2,3,Ready
+0,2,2,2,3,2,2,Ready
+3,2,3,2,0,2,2,Ready
+2,2,3,3,3,3,1,Ready
+0,2,2,3,3,3,3,Ready
+2,2,3,2,3,0,3,Ready
+1,2,2,2,2,2,3,Ready
+3,3,1,3,2,2,2,Ready
+2,3,3,2,1,3,2,Ready
+2,2,2,1,3,2,2,Ready
+3,3,2,3,2,1,2,Ready
+3,3,3,0,2,2,3,Ready
+2,2,1,3,3,3,3,Ready
+2,3,3,3,2,2,1,Ready
+3,3,2,2,2,0,2,Ready
+2,3,2,3,0,2,3,Ready
+0,2,2,2,2,2,3,Ready
+2,3,3,2,1,2,3,Ready
+2,1,2,3,2,3,3,Ready
+3,2,3,3,1,3,2,Ready
+3,2,1,2,3,3,2,Ready
+3,2,1,3,2,2,2,Ready
+3,2,3,2,3,3,0,Ready
+2,3,3,0,2,2,2,Ready
+2,2,3,3,0,3,2,Ready
+2,2,0,2,3,3,2,Ready
+3,3,3,0,2,3,2,Ready
+0,2,3,2,3,3,2,Ready
+2,2,2,2,0,2,3,Ready
+0,3,3,3,3,2,3,Ready
+3,3,2,2,2,3,0,Ready
+2,2,2,3,3,0,2,Ready
+3,2,0,3,2,3,3,Ready
+2,3,0,3,3,3,2,Ready
+2,3,3,3,2,1,2,Ready
+3,3,3,3,1,2,3,Competitive
+2,2,3,3,0,2,2,Ready
+3,0,2,3,2,2,3,Ready
+2,3,2,2,0,2,3,Ready
+2,0,2,3,3,2,3,Ready
+3,2,2,2,3,2,0,Ready
+2,2,1,3,3,2,3,Ready
+2,2,2,2,1,2,2,Ready
+3,1,2,2,2,3,2,Ready
+1,2,3,2,3,3,3,Ready
+2,3,3,2,2,1,3,Ready
+3,2,0,3,2,2,2,Ready
+1,2,3,2,2,2,2,Ready
+2,2,2,0,3,2,3,Ready
+2,3,3,0,3,3,3,Ready
+1,3,3,2,2,3,3,Ready
+2,1,3,2,2,3,2,Ready
+0,2,3,3,3,3,3,Ready
+2,2,1,2,3,2,3,Ready
+2,2,2,2,0,2,2,Developing
+2,3,3,2,3,2,1,Ready
+2,1,3,2,3,2,3,Ready
+2,1,3,3,3,2,2,Ready
+2,3,2,3,3,3,0,Ready
+2,2,0,3,2,2,3,Ready
+2,3,3,2,2,1,2,Ready
+3,3,0,2,2,2,3,Ready
+2,2,2,2,1,3,2,Ready
+3,3,3,3,1,3,2,Competitive
+2,3,2,3,3,2,0,Ready
+1,2,2,2,3,2,3,Ready
+3,2,2,2,1,2,2,Ready
+2,3,3,2,3,2,1,Ready
+2,2,1,3,3,2,2,Ready
+3,2,2,2,2,2,0,Ready
+3,2,3,2,1,2,2,Ready
+3,1,2,3,3,2,3,Ready
+3,3,2,3,1,3,2,Ready
+2,2,2,3,2,2,0,Ready
+3,2,2,1,3,3,3,Ready
+3,2,1,3,3,3,2,Ready
+3,3,3,3,3,0,2,Ready
+2,1,2,2,2,2,3,Ready
+3,3,2,3,1,3,3,Competitive
+2,3,2,3,0,3,3,Ready
+3,3,0,2,3,3,2,Ready
+3,3,0,3,2,2,2,Ready
+0,2,3,2,2,2,3,Ready
+3,3,1,3,3,3,2,Competitive
+1,3,2,3,2,3,2,Ready
+0,2,3,3,3,2,2,Ready
+3,3,0,3,3,2,2,Ready
+2,1,3,3,3,3,3,Competitive
+2,1,2,3,2,3,2,Ready
+3,3,2,2,2,3,0,Ready
+0,2,2,3,3,3,3,Ready
+3,2,0,2,3,3,2,Ready
+3,2,2,1,3,3,2,Ready
+2,3,2,1,3,2,2,Ready
+2,3,3,2,3,0,3,Ready
+3,1,2,2,2,2,2,Ready
+3,2,3,2,0,3,3,Ready
+3,2,3,3,2,1,3,Ready
+2,3,2,1,2,3,2,Ready
+3,3,2,3,0,2,2,Ready
+3,2,3,3,0,2,3,Ready
+3,2,3,3,3,3,1,Competitive
+2,3,3,3,2,3,0,Ready
+2,3,2,0,3,3,2,Ready
+3,2,2,3,3,2,0,Ready
+2,0,2,2,2,3,3,Ready
+2,0,3,2,2,3,2,Ready
+2,0,2,2,3,2,2,Ready
+2,0,2,2,3,3,3,Ready
+2,3,3,2,3,2,1,Ready
+0,2,3,2,3,3,2,Ready
+2,3,2,3,2,3,1,Ready
+3,2,3,2,3,0,3,Ready
+3,3,2,3,2,1,2,Ready
+2,2,0,2,2,3,2,Ready
+3,2,2,3,3,3,1,Ready
+0,2,3,3,2,3,2,Ready
+3,3,2,3,1,3,2,Ready
+2,3,2,3,2,1,3,Ready
+3,3,0,2,3,3,3,Ready
+2,3,3,3,0,2,3,Ready
+2,2,2,1,3,2,3,Ready
+2,1,1,1,1,0,3,Developing
+2,2,2,1,2,3,0,Developing
+2,0,2,2,1,3,2,Developing
+1,1,0,1,3,2,1,Developing
+2,1,3,0,2,3,3,Ready
+1,2,2,2,1,0,3,Developing
+3,3,0,3,1,2,3,Ready
+1,3,0,2,1,2,2,Developing
+3,3,1,0,1,3,3,Ready
+1,0,1,3,1,3,3,Developing
+1,1,1,1,2,0,2,Developing
+2,1,2,3,0,2,3,Ready
+3,3,2,2,1,2,0,Ready
+1,2,0,2,1,1,1,Developing
+1,2,2,2,0,1,3,Developing
+2,3,1,0,3,1,1,Developing
+1,1,3,0,3,2,3,Ready
+1,2,0,3,2,1,3,Developing
+0,3,1,1,2,3,2,Developing
+1,0,3,3,3,2,1,Ready
+0,1,2,1,3,1,3,Developing
+1,2,3,3,0,2,2,Ready
+3,1,1,0,2,1,1,Developing
+1,2,3,1,1,0,3,Developing
+2,1,0,1,1,1,2,Developing
+2,1,1,3,3,1,0,Developing
+2,3,2,1,1,2,0,Developing
+1,1,3,2,1,3,0,Developing
+1,1,1,2,0,1,1,Developing
+3,2,0,1,2,1,2,Developing
+0,1,3,3,1,3,2,Ready
+3,1,0,1,1,2,2,Developing
+0,1,3,1,1,3,2,Developing
+3,3,2,2,2,0,1,Ready
+0,2,2,2,2,1,1,Developing
+3,3,3,3,1,1,0,Ready
+0,1,2,1,2,2,3,Developing
+3,1,1,0,1,2,2,Developing
+3,0,1,3,2,3,2,Ready
+3,1,1,0,2,2,2,Developing
+1,3,0,3,2,1,2,Developing
+3,2,2,2,0,1,3,Ready
+2,2,0,1,2,3,2,Developing
+1,0,3,2,1,2,2,Developing
+0,2,2,3,1,2,2,Developing
+1,3,0,1,2,2,1,Developing
+3,1,1,0,1,3,1,Developing
+3,3,0,3,1,3,2,Ready
+3,1,1,0,2,3,3,Ready
+1,0,3,2,2,2,3,Ready
+2,3,0,2,1,3,1,Developing
+3,2,2,2,2,2,0,Ready
+3,3,3,0,1,1,2,Ready
+0,3,2,1,3,2,1,Developing
+2,3,1,0,2,2,1,Developing
+2,2,2,3,2,2,0,Ready
+2,2,1,1,0,1,1,Developing
+3,1,2,1,0,2,1,Developing
+1,2,2,2,1,0,3,Developing
+1,2,0,3,2,3,3,Ready
+3,1,1,3,2,1,0,Developing
+3,2,3,0,3,2,2,Ready
+1,2,3,0,3,3,1,Ready
+1,0,3,3,1,3,3,Ready
+3,2,3,2,0,3,3,Ready
+1,1,2,3,2,0,1,Developing
+1,3,3,0,1,2,1,Developing
+3,3,0,2,2,2,3,Ready
+0,1,3,3,3,2,3,Ready
+1,2,1,3,2,1,0,Developing
+0,1,2,1,3,1,2,Developing
+1,2,3,2,2,0,1,Developing
+0,3,1,2,3,3,1,Ready
+3,0,2,3,1,1,1,Developing
+3,2,0,2,1,1,3,Developing
+1,1,2,1,3,3,0,Developing
+0,2,2,1,2,1,2,Developing
+2,2,3,1,2,1,0,Developing
+0,1,2,1,1,1,3,Developing
+2,3,3,2,3,0,3,Ready
+3,0,1,3,3,3,1,Ready
+1,2,3,0,1,3,1,Developing
+0,1,2,3,2,1,2,Developing
+3,3,3,0,3,2,3,Ready
+3,2,2,2,1,3,0,Ready
+2,1,0,2,2,2,3,Developing
+1,0,2,3,1,1,3,Developing
+2,0,2,2,1,1,1,Developing
+2,2,1,2,2,0,2,Developing
+1,0,2,1,2,3,3,Developing
+0,2,2,1,3,3,1,Developing
+2,3,0,3,3,1,3,Ready
+1,0,3,2,2,1,3,Developing
+2,3,1,1,0,1,3,Developing
+0,2,1,3,3,2,2,Ready
+3,1,2,1,0,1,3,Developing
+1,2,3,3,1,0,2,Developing
+0,1,3,1,2,3,2,Developing
+2,3,2,3,2,3,0,Ready
+2,0,2,3,2,1,1,Developing
+3,3,2,3,0,3,3,Ready
+1,2,1,1,2,1,0,Developing
+1,3,1,1,1,0,2,Developing
+3,0,3,3,2,1,2,Ready
+1,0,3,3,1,1,2,Developing
+2,1,3,2,0,3,2,Ready
+1,2,2,2,3,0,2,Developing
+0,3,2,3,3,2,2,Ready
+3,1,3,1,0,3,3,Ready
+2,2,2,1,2,2,0,Developing
+3,2,0,2,3,1,2,Ready
+1,1,2,3,1,3,0,Developing
+2,1,2,1,1,1,0,Developing
+2,2,0,3,3,1,1,Developing
+1,1,2,3,3,1,0,Developing
+1,0,1,1,2,3,3,Developing
+3,2,1,2,1,3,0,Developing
+0,3,2,3,1,1,3,Ready
+3,2,2,0,2,2,2,Ready
+3,1,0,2,1,1,3,Developing
+2,1,2,3,0,3,3,Ready
+3,2,2,3,0,1,1,Developing
+1,2,0,3,3,3,1,Ready
+3,0,2,2,1,1,1,Developing
+2,2,3,3,0,1,1,Developing
+1,2,1,3,1,0,1,Developing
+3,1,2,2,3,0,1,Developing
+3,2,3,2,2,0,2,Ready
+2,3,0,3,2,3,1,Ready
+1,1,1,3,3,1,0,Developing
+2,1,0,2,3,1,1,Developing
+2,1,1,3,2,0,3,Developing
+0,1,2,2,1,2,1,Developing
+2,1,2,1,0,1,2,Developing
+0,2,3,1,2,1,1,Developing
+3,1,2,1,0,3,1,Developing
+3,1,2,2,0,1,3,Developing
+2,3,3,2,2,2,0,Ready
+2,2,2,2,1,0,3,Developing
+3,2,2,1,0,2,2,Developing
+3,1,1,2,1,1,0,Developing
+0,1,2,3,3,3,3,Ready
+0,2,3,1,3,3,1,Ready
+3,0,1,1,1,2,1,Developing
+1,2,1,3,0,1,2,Developing
+2,3,1,3,0,3,1,Ready
+2,1,1,2,3,3,0,Developing
+0,3,3,1,1,2,3,Ready
+1,1,2,3,0,2,1,Developing
+1,1,0,3,1,2,2,Developing
+1,2,2,1,0,2,1,Developing
+3,3,0,1,3,2,2,Ready
+3,2,3,3,3,0,3,Ready
+2,1,1,1,0,1,1,Developing
+3,1,0,2,2,1,3,Developing
+1,1,2,3,0,3,3,Ready
+2,3,2,3,3,3,0,Ready
+2,1,3,2,3,1,0,Developing
+2,3,3,0,2,3,2,Ready
+1,2,1,0,1,1,3,Developing
+3,0,2,3,3,3,2,Ready
+3,2,3,0,1,3,1,Ready
+2,1,3,2,3,1,0,Developing
+0,2,3,3,2,3,2,Ready
+3,0,1,1,1,3,1,Developing
+1,0,1,3,1,1,2,Developing
+1,1,1,1,0,2,3,Developing
+3,3,2,0,1,3,1,Ready
+3,2,2,0,3,2,1,Ready
+1,2,1,2,3,0,2,Developing
+1,1,2,1,0,2,3,Developing
+2,0,1,3,1,1,2,Developing
+2,0,1,2,3,1,2,Developing
+3,3,3,2,3,0,2,Ready
+0,2,1,1,3,1,1,Developing
+1,1,0,2,1,1,1,Developing
+1,3,3,3,2,0,2,Ready
+2,2,1,0,3,2,3,Ready
+3,3,3,0,1,3,2,Ready
+2,3,1,2,0,1,1,Developing
+1,0,2,3,3,1,1,Developing
+2,3,2,2,1,1,0,Developing
+0,2,1,1,3,1,3,Developing
+2,3,0,3,2,3,1,Ready
+2,1,0,3,3,3,2,Ready
+1,1,2,3,0,1,2,Developing
+0,2,3,2,3,1,3,Ready
+3,3,0,3,3,2,1,Ready
+3,3,1,1,0,3,1,Developing
+1,2,3,3,0,2,2,Ready
+1,3,1,3,2,0,3,Ready
+0,2,3,1,1,2,3,Developing
+3,0,1,2,1,1,1,Developing
+3,3,0,1,3,1,3,Ready
+1,2,2,0,3,1,3,Developing
+3,3,1,1,2,0,2,Developing
+2,0,1,2,1,2,1,Developing
+2,1,2,1,0,1,1,Developing
+3,2,3,2,3,0,2,Ready
+1,2,2,0,3,2,2,Developing

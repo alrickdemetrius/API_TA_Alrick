@@ -1,0 +1,5 @@
+Model trained    : 2026-04-27 00:49:58
+Feature columns  : ['grade', 'lagu', 'scales', 'sight', 'aural']
+Training samples : 1200
+Test accuracy    : 0.8958
+CV score         : 0.9250 ± 0.0259
